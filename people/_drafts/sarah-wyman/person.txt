@@ -6,7 +6,7 @@ Displayname: Sarah Wyman
 
 ----
 
-Pronouns: 
+Pronouns: she/her
 
 ----
 
@@ -14,11 +14,20 @@ Photo:
 
 ----
 
-Location: 
+Location:
+
+lat: 41.7464972
+lon: -74.0844894
+city: Town of New Paltz
+region: New York
+country: United States
+countryCode: us
+postcode: "12561"
+osm: 3177666
 
 ----
 
-Bio: 
+Bio: <p>Sarah Wyman teaches twentieth and twenty-first century comparative literature with an emphasis on poetry, the visual arts, and drama in the U.S. and Europe. As a co-coordinator of the Sustainability Faculty Learning Community, she is committed to innovative teaching and transformational learning. She also teaches creative writing at a local prison.</p>
 
 ----
 
