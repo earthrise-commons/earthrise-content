@@ -6,7 +6,7 @@ Displayname: Will Hong
 
 ----
 
-Pronouns: 
+Pronouns: he/him
 
 ----
 
@@ -14,7 +14,16 @@ Photo:
 
 ----
 
-Location: 
+Location:
+
+lat: 41.7464972
+lon: -74.0844894
+city: Town of New Paltz
+region: New York
+country: United States
+countryCode: us
+postcode: "12561"
+osm: 3177666
 
 ----
 
