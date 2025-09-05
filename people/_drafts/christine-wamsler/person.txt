@@ -14,7 +14,14 @@ Photo:
 
 ----
 
-Location: 
+Location:
+
+lat: 55.7029296
+lon: 13.1929449
+city: Lund
+country: Sweden
+countryCode: se
+osm: 2468628
 
 ----
 
@@ -22,15 +29,15 @@ Bio: <p><strong>Christine Wamsler</strong> is Professor of Sustainability Scienc
 
 ----
 
-Organizationname: 
+Organizationname: Lund University
 
 ----
 
-Role: 
+Role: Professor
 
 ----
 
-Level: 
+Level: graduate
 
 ----
 
