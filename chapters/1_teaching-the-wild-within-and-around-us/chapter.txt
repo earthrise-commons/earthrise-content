@@ -2,7 +2,7 @@ Title: Teaching the Wild Within and Around Us
 
 ----
 
-Sectionid: 2. Being a Sustainability Educator: Pursuing Questions and Shaping Values
+Sectionid: 
 
 ----
 
@@ -25,12 +25,6 @@ Links:
   type: url
   url: https://google.com
   file: [ ]
-- 
-  title: View Chapter on SpringerLink
-  type: file
-  url: ""
-  file:
-    - file://omeahsukehy3c8xw
 
 ----
 
@@ -38,7 +32,7 @@ Resourcelinks:
 
 ----
 
-Text: [{"content":{"text":"<ul><li>list item 1</li><li>list item 2</li><li>list item 3 with <em>formatting</em></li></ul>"},"id":"d3d7d5f1-dc6e-4f8a-9665-07c3c450c42b","isHidden":false,"type":"list"},{"content":["Accordion Title","<p>Here's some <strong>content</strong></p><p>What happens if there are multiple lines of content in here?</p><p>Here's a third line.</p>"],"id":"49d87c60-7f83-48c4-af1f-15763e452dff","isHidden":false,"type":"accordion"},{"content":{"title":"Download Some Resources","items":[{"title":"Download Chapter","type":"file","url":"","file":["file://omeahsukehy3c8xw"]},{"title":"External Link Sample","type":"url","url":"https://newpaltz.edu","file":[]}]},"id":"e140746b-77e3-46cf-897c-9a52459e08c3","isHidden":false,"type":"resources"},{"content":{"theme":"default","left":"[{\"content\":{\"level\":\"h2\",\"text\":\"Left <em>Content</em>\"},\"id\":\"10a4dfa0-dc11-4e61-89b9-acad4eb62749\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Here's some content in the left pane</p>\"},\"id\":\"08c9840c-e575-48c6-980f-05f8a0ad91da\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"\"},\"id\":\"5cb699c9-c63d-4cbc-96ba-ddeee06a55b5\",\"isHidden\":false,\"type\":\"text\"}]","right":"[{\"content\":{\"text\":\"<p>right content goes here!</p>\"},\"id\":\"b993692c-5565-49e1-9f16-d47ff59483a7\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"location\":\"kirby\",\"image\":[\"file://omeahsukehy3c8xw\"],\"src\":\"\",\"alt\":\"Book Cover\",\"caption\":\"Here's the caption\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"1476d22d-eebf-40ab-b445-17626004fff0\",\"isHidden\":false,\"type\":\"image\"}]"},"id":"1128a2e0-9e29-46f8-b409-2383e1b65c3d","isHidden":false,"type":"twocol"},{"content":{"location":"web","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ","video":[],"poster":[],"caption":"Important sustainability video","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"e84881f6-65df-430d-a2aa-1922fba83bb1","isHidden":false,"type":"video"},{"content":{"location":"web","url":"https://vimeo.com/712066726","video":[],"poster":[],"caption":"a video from Vimeo","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"5a5efc27-e610-44ae-a296-e263c114e147","isHidden":false,"type":"video"}]
+Text: 
 
 ----
 
