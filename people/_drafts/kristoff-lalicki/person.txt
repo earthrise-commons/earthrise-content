@@ -14,7 +14,16 @@ Photo:
 
 ----
 
-Location: 
+Location:
+
+lat: 41.9287812
+lon: -74.0023825
+city: City of Kingston
+region: New York
+country: United States
+countryCode: us
+postcode: "12401"
+osm: 175010
 
 ----
 
