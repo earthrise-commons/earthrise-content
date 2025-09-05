@@ -27,19 +27,19 @@ osm: 175010
 
 ----
 
-Bio: 
+Bio: <p>Kristoff Lalicki is a designer, developer, &amp; educator based in Kingston, NY. </p>
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Adjunct Instructor
 
 ----
 
-Level: 
+Level: undergrad
 
 ----
 
