@@ -16,14 +16,14 @@ Photo:
 
 Location:
 
-lat: 41.9287812
-lon: -74.0023825
-city: City of Kingston
+lat: 41.7464972
+lon: -74.0844894
+city: Town of New Paltz
 region: New York
 country: United States
 countryCode: us
-postcode: "12401"
-osm: 175010
+postcode: "12561"
+osm: 3177666
 
 ----
 
