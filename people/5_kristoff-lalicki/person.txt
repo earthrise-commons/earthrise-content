@@ -27,7 +27,7 @@ osm: 3177666
 
 ----
 
-Bio: <p>Kristoff Lalicki is a designer, developer, &amp; educator based in Kingston, NY. In addition to his work as a designer at a nonprofit, he teaches design (including systems thinking, web design, &amp; portfolio development) at SUNY New Paltz.</p>
+Bio: <p>Kristoff Lalicki is a designer, developer, &amp; educator based in Kingston, NY. In addition to his work as a designer at a nonprofit, he teaches design (including systems thinking, web design, &amp; portfolio development) at SUNY New Paltz. He is the technical lead and web developer for Earthrise Commons.</p>
 
 ----
 
