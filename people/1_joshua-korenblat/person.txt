@@ -55,13 +55,7 @@ Urls:
 
 ----
 
-Tags:
-
-sdg: sdg-1-poverty, sdg-2-hunger
-lre: lre-learn
-idg: ""
-lvl: ""
-other: Information Design
+Tags: 
 
 ----
 
