@@ -3,3 +3,7 @@ Uuid: ryerj2xn2dhjj2ww
 ----
 
 Template: image
+
+----
+
+Focus: 54.6% 34.7%
