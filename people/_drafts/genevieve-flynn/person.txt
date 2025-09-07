@@ -6,7 +6,7 @@ Displayname: Genevieve Flynn
 
 ----
 
-Pronouns: 
+Pronouns: she/her
 
 ----
 
@@ -22,19 +22,19 @@ Bio:
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: English Literature Student
 
 ----
 
-Level: 
+Level: graduate
 
 ----
 
-Email: 
+Email: flynng2@newpaltz.edu
 
 ----
 
