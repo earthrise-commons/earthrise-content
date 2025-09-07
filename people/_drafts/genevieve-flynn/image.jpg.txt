@@ -1,0 +1,5 @@
+Uuid: cfeasybsqhvumjj1
+
+----
+
+Template: image
