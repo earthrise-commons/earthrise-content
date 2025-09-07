@@ -3,3 +3,7 @@ Uuid: cfeasybsqhvumjj1
 ----
 
 Template: image
+
+----
+
+Focus: 49.6% 48.1%
