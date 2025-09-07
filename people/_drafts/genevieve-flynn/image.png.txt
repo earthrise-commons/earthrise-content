@@ -1,0 +1,5 @@
+Uuid: h64j2wi0tiytyolo
+
+----
+
+Template: image
