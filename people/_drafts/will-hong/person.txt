@@ -27,7 +27,7 @@ osm: 3177666
 
 ----
 
-Bio: 
+Bio: <p><strong>Will Hong</strong> is an Associate Professor in the Department of Digital Media and Journalism at SUNY New Paltz.&nbsp; He holds graduate degrees from Princeton University and Tisch School of the Arts/NYU and spent two decades in the film and television industry in New York City.&nbsp; Prof. Hong received a professional certificate in Campus Sustainability Leadership from the University of Vermont in 2015 and has led webinars and workshops on sustainability pedagogy innovation at AASHE, ICSD (Earth Institute/Columbia University), the Sustainability Curriculum Consortium Faculty Conference, and Duke University.&nbsp; He lives in upstate New York with his spouse and their sensitive beagle.&nbsp;</p>
 
 ----
 
