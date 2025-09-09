@@ -3,3 +3,7 @@ Uuid: h64j2wi0tiytyolo
 ----
 
 Template: image
+
+----
+
+Focus: 49.5% 51.4%
