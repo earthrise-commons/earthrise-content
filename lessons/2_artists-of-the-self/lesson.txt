@@ -6,7 +6,10 @@ Text: [{"content":{"level":"h2","text":"Project Synopsis"},"id":"2fedf0f9-ae35-4
 
 ----
 
-Author: - page://7yrtq2vtjmzz5uer
+Author:
+
+- page://7yrtq2vtjmzz5uer
+- page://h1oeselsn5phbarv
 
 ----
 
