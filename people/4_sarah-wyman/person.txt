@@ -47,11 +47,16 @@ Email:
 
 ----
 
-Orcid: 
+Orcid: 0000-0002-0213-6353
 
 ----
 
-Urls: 
+Urls:
+
+- 
+  title: "Sarah Wyman's Website"
+  url: >
+    https://hawksites.newpaltz.edu/sarahwyman/
 
 ----
 
