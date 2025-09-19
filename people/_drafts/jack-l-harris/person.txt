@@ -22,11 +22,11 @@ Bio: <p><strong>Jack L. Harris</strong> is Assistant Teaching Professor and Prog
 
 ----
 
-Organizationname: 
+Organizationname: Rutgers University
 
 ----
 
-Role: 
+Role: Assistant Teaching Professor
 
 ----
 
