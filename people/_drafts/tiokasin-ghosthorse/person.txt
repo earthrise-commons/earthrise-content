@@ -45,7 +45,7 @@ Orcid:
 Urls:
 
 - 
-  title: Tiokasin Ghosthorse
+  title: "Tiokasin Ghosthorse's Website"
   url: >
     https://humansandnature.org/tiokasin-ghosthorse/
 
