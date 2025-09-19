@@ -22,11 +22,11 @@ Bio: <p><strong>Carrie Young, </strong>MPA, PhD, is an Assistant Teaching Profes
 
 ----
 
-Organizationname: 
+Organizationname: University of North Carolina at Chapel Hill
 
 ----
 
-Role: 
+Role: Assistant Professor
 
 ----
 
