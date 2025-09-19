@@ -1,0 +1,5 @@
+Uuid: nfh7e5fjauo1fkb7
+
+----
+
+Template: image
