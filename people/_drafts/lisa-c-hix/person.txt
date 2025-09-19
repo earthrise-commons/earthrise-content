@@ -42,7 +42,12 @@ Orcid:
 
 ----
 
-Urls: 
+Urls:
+
+- 
+  title: Keene State College Site
+  url: >
+    https://www.keene.edu/site/directories/profile/facstaff/235/
 
 ----
 
