@@ -18,7 +18,7 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p><strong>Heather Lai</strong> is an Associate Professor at the State University of New York at New Paltz in Mechanical Engineering. She teaches undergraduate engineering students kinematics, system dynamics, computer simulation, measurementation and wind energy acoustics with the goal of helping them to understand the value of tackling dynamic problems by thinking in terms of system behavior.&nbsp; Teaching in collaboration with other faculty, Heather strives to encourage her students to think holistically about the global challenges they will face as engineers. Currently, Heather is currently engaged in research related to wind farm acoustics, specifically in measuring and characterizing wind farm noise at locations impacting local residents living near wind farms. Additionally, Heather is a leader in her local ASME chapter and is active in citizen science initiatives.</p>
 
 ----
 
