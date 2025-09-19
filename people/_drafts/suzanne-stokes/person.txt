@@ -22,11 +22,11 @@ Bio: <p><strong>Suzanne Stokes, </strong>artist, Professor<strong> </strong>an
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Professor and Foundation Coordinator
 
 ----
 
