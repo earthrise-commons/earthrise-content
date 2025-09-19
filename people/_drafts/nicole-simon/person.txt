@@ -42,7 +42,12 @@ Orcid:
 
 ----
 
-Urls: 
+Urls:
+
+- 
+  title: "Nicole Simon's LinkedIn"
+  url: >
+    https://www.linkedin.com/in/nicole-simon-2683b316
 
 ----
 
