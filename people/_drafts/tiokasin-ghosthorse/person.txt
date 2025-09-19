@@ -42,7 +42,12 @@ Orcid:
 
 ----
 
-Urls: 
+Urls:
+
+- 
+  title: Tiokasin Ghosthorse
+  url: >
+    https://humansandnature.org/tiokasin-ghosthorse/
 
 ----
 
