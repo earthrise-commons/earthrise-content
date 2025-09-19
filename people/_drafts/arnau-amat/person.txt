@@ -22,7 +22,7 @@ Bio: <p><strong>Arnau Amat </strong>is a<strong> </strong>researcher and profess
 
 ----
 
-Organizationname: 
+Organizationname: Universitat de Vic-Universitat Central de Catalunya
 
 ----
 
