@@ -22,11 +22,11 @@ Bio: <p><strong>Kate Bellody</strong> is the Student Success Librarian at the So
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Librarian
 
 ----
 
