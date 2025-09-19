@@ -22,15 +22,15 @@ Bio:
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
-Level: 
+Level: undergrad
 
 ----
 
