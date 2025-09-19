@@ -22,11 +22,11 @@ Bio: <p><strong>Brian Obach</strong> is a Professor of Sociology at the State Un
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Professor
 
 ----
 
