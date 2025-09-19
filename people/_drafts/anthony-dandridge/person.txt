@@ -22,11 +22,11 @@ Bio: <p><strong>Anthony Dandridge</strong>, Lecturer in SUNY New Paltz’s Depar
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Lecturer
 
 ----
 
