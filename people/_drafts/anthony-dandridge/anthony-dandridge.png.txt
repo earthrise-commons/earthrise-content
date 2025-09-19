@@ -1,0 +1,5 @@
+Uuid: ddnrbxb8mvncp7am
+
+----
+
+Template: image
