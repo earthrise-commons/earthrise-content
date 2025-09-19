@@ -22,11 +22,11 @@ Bio: <p><strong>Anne C. Balant </strong>is an Associate Professor of Communicati
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
