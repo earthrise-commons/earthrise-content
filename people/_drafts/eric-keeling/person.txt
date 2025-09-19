@@ -22,7 +22,7 @@ Bio: <p><strong>Eric Keeling</strong> teaches Ecology and related courses at SUN
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
