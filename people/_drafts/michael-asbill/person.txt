@@ -22,11 +22,11 @@ Bio: <p><strong>Michael Asbill</strong> is an Assistant Professor in the Sculptu
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Assistant Professor
 
 ----
 
