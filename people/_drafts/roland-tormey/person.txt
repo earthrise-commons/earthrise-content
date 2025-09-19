@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://f5mrssvwxm30eotw
 
 ----
 
@@ -18,7 +18,7 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p><strong>Roland Tormey, </strong>is a Senior Scientist at EPFL (Ecole polytechnique fédérale de Lausanne), in Switzerland where he leads the Teaching Support Centre and researches engineering education.&nbsp; He previously worked for fifteen years in teacher education.&nbsp; His research has focused on diversity and equality issues in learning, as well as on the role of emotion in teaching and learning.&nbsp; Recent work includes co-authoring <em>Facilitating Experiential Learning in Higher Education: Teaching and Supervising in Labs, Fieldwork, Studios, and Projects </em>(2021), and co-editing <em>The Routledge International Handbook of Engineering Ethics Education</em> (2025).&nbsp;</p>
 
 ----
 
