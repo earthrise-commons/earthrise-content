@@ -22,11 +22,11 @@ Bio: <p><strong>April B. Coughlin </strong>&nbsp;is an Associate Professor at th
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
