@@ -22,11 +22,11 @@ Bio: <p><strong>Melissa Yang Rock</strong>, <u><a href="https://midwife.org/Cert
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
