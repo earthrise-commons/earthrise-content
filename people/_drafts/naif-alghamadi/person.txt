@@ -18,7 +18,7 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p><strong>Naif Alghamdi</strong> is an Assistant Professor of Architecture in the Department of Architecture and Building Science at the College of Architecture and Planning, King Saud University (KSU), Riyadh, Saudi Arabia. He currently leads the Riyadh Architectural Documentation Project and serves on the Editorial Advisory Board of the International Journal of Sustainability in Higher Education (Emerald, UK). He is also a regular reviewer for several international peer-reviewed journals. Alongside his academic role, <u><a href="https://faculty.ksu.edu.sa/en/naag">Dr. Alghamdi</a></u> works as an active architectural consultant, collaborating with professional practices across Saudi Arabia. He holds postgraduate degrees in Project Management and Architecture from The Bartlett, University College London (UCL), and a PhD from the Department of Management in the Built Environment, Delft University of Technology, Netherlands. His research interests focus on sustainability, university campuses, architectural documentation, and universal accessibility. He has presented his work in numerous international workshops, seminars, and conferences, and has published journal articles, book chapters, and scholarly reviews.</p>
 
 ----
 
