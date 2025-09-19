@@ -22,11 +22,11 @@ Bio: <p><strong>Demond M. Hill</strong> &nbsp;is a Postdoctoral scholar at the U
 
 ----
 
-Organizationname: 
+Organizationname: University of Chicago
 
 ----
 
-Role: 
+Role: Postdoctoral Scholar
 
 ----
 
