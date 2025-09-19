@@ -1,0 +1,5 @@
+Uuid: c5onmpehspaeg14n
+
+----
+
+Template: image
