@@ -22,11 +22,11 @@ Bio: <p><strong>Nicole Simon</strong> is a Professor in the STEM disciplines at 
 
 ----
 
-Organizationname: 
+Organizationname: SUNY Nassau Community College
 
 ----
 
-Role: 
+Role: Professor
 
 ----
 
