@@ -22,7 +22,7 @@ Bio: <p><strong>Christiana Fortune-Reader </strong>is a multi-faceted musician, 
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
@@ -42,7 +42,11 @@ Orcid:
 
 ----
 
-Urls: 
+Urls:
+
+- 
+  title: "Christiana Fortune-Reader's Website"
+  url: https://christianafortunereader.com/
 
 ----
 
