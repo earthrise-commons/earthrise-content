@@ -22,11 +22,11 @@ Bio: <p><strong>Laia Solé Coromina </strong>is a visual artist, researcher and 
 
 ----
 
-Organizationname: 
+Organizationname: Didàctica de les Arts i les Ciències at Universitat de Vic-Universitat Central de Catalunya
 
 ----
 
-Role: 
+Role: Professor
 
 ----
 
