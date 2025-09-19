@@ -22,11 +22,11 @@ Bio: <p><strong>Emilie Houssart</strong> is an artist and curator based in upsta
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Lecturer
 
 ----
 
