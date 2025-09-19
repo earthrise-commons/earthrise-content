@@ -22,11 +22,11 @@ Bio: <p><strong>Megan Ferguson </strong>is an Associate Professor of Chemistry a
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
