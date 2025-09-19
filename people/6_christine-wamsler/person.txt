@@ -49,7 +49,12 @@ Orcid:
 
 ----
 
-Urls: 
+Urls:
+
+- 
+  title: Christine Wamsler Website
+  url: >
+    https://www.lucsus.lu.se/christine-wamsler
 
 ----
 
