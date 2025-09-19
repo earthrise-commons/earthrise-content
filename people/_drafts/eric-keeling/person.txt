@@ -18,7 +18,7 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p><strong>Eric Keeling</strong> teaches Ecology and related courses at SUNY New Paltz. He holds a B.S in Conservation &amp; Resource Studies from UC Berkeley, a M.M in Music Performance from San Diego State University, and a PhD in Organismal Biology &amp; Ecology from the University of Montana. His main research interests are in forest ecology and conservation biology. Eric grew up in a family of musicians, hikers, and academics. His father, Charles and brother, Ralph are associated with the <em>Mauna Loa CO2 Record</em>, also known as the <em>Keeling Curve</em>.</p>
 
 ----
 
