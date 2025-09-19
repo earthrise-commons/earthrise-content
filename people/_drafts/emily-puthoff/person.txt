@@ -22,11 +22,11 @@ Bio: <p><strong>Emily Puthoff</strong> is a sculpture professor and co-director 
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Professor and Co-Director of the Sculpture Program
 
 ----
 
