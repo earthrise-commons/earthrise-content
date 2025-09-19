@@ -22,11 +22,11 @@ Bio: <p><strong>Andrea M. Noel</strong>, PhD, is Professor Emerita in the Depart
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Professor Emerita
 
 ----
 
