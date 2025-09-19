@@ -18,7 +18,7 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p><strong>Samrat Pathania</strong>, a former software engineer, currently teaches mathematics, physics, environmental science and computer science at Wallkill High School in Wallkill, New York. He is a New York State Master Teacher Emeritus and co-founder of the non-profit <u><a href="http://www.ejforward.org">Environmental Justice Forward</a></u>. Samrat is a passionate advocate for inquiry-based and climate solutions-centered STEM education, inside and outside the classroom and serves on the board of <u><a href="https://ashokancenter.org/">The Ashokan Center</a></u>, New York’s oldest outdoor environmental education center. He is the co-author of <em>A Full Axiomatic Development of High School Geometry</em> (Springer 2023). Samrat is the Program Manager for Science and Sustainability at the <u><a href="https://www.newpaltz.edu/mhtc/">Mid-Hudson Teacher Center</a></u> at SUNY New Paltz. He is also a clean energy coach with <u><a href="https://nyforcleanpower.org/">New Yorkers for Clean Power</a></u>.</p>
 
 ----
 
