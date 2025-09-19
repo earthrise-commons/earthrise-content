@@ -1,0 +1,5 @@
+Uuid: stj9mbourmilkp8j
+
+----
+
+Template: image
