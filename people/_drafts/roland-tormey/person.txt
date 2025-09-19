@@ -22,11 +22,11 @@ Bio: <p><strong>Roland Tormey, </strong>is a Senior Scientist at EPFL (Ecole pol
 
 ----
 
-Organizationname: 
+Organizationname: Ecole polytechnique fédérale de Lausanne (EPFL)
 
 ----
 
-Role: 
+Role: Senior Scientist
 
 ----
 
