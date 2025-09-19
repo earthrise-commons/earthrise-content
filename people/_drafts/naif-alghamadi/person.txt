@@ -22,11 +22,11 @@ Bio: <p><strong>Naif Alghamdi</strong> is an Assistant Professor of Architecture
 
 ----
 
-Organizationname: 
+Organizationname: King Saud University (KSU)
 
 ----
 
-Role: 
+Role: Assistant Professor
 
 ----
 
