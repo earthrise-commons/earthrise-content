@@ -22,7 +22,7 @@ Bio: <p><strong>Andrea Frank </strong>is an artist and Professor at SUNY New Pal
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
