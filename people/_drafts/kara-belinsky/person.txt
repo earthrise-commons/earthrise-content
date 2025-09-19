@@ -22,11 +22,11 @@ Bio: <p><strong>Kara Belinsky </strong>is an Associate Professor of Biology at S
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
