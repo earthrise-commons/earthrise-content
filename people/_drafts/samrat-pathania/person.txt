@@ -22,11 +22,11 @@ Bio: <p><strong>Samrat Pathania</strong>, a former software engineer, currently 
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Program Manager for Science and Sustainability at the Mid-Hudson Teacher Center
 
 ----
 
