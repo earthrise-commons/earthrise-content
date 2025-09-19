@@ -22,11 +22,11 @@ Bio:
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Assistant Professor
 
 ----
 
