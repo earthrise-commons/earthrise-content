@@ -31,11 +31,11 @@ Bio: <p>Dr. Sally Warren is Vice President of <strong>Build Green Now</strong>&n
 
 ----
 
-Organizationname: 
+Organizationname: Build Green Now and Voices for Progress
 
 ----
 
-Role: 
+Role: Vice President
 
 ----
 
