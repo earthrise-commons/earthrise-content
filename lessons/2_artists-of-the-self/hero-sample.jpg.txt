@@ -1,0 +1,5 @@
+Uuid: 3x6gxaugz0failis
+
+----
+
+Template: image
