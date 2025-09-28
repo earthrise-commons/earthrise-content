@@ -10,11 +10,19 @@ Author: - page://7yrtq2vtjmzz5uer
 
 ----
 
+Hero: - file://3x6gxaugz0failis
+
+----
+
 License: CC BY-NC
 
 ----
 
 Remixsource: 
+
+----
+
+Taxonomy: 
 
 ----
 
