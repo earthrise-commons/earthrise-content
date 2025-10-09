@@ -53,8 +53,9 @@ Urls:
   url: >
     https://www.youtube.com/watch?v=BY-UODcyWsM
 - 
-  title: ""
-  url: ""
+  title: Indigenous Education Open-Access Book
+  url: >
+    https://ctl.oregonstate.edu/sites/ctl.oregonstate.edu/files/stop_talking_final.pdf
 
 ----
 
