@@ -45,7 +45,7 @@ Orcid:
 Urls:
 
 - 
-  title: "Anat Shiftan's Website"
+  title: Anat Shiftan
   url: 'https://anatshiftan.info/ '
 
 ----
