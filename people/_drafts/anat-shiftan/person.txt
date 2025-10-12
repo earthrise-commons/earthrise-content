@@ -46,7 +46,7 @@ Urls:
 
 - 
   title: Anat Shiftan
-  url: 'https://anatshiftan.info/ '
+  url: https://anatshiftan.com
 
 ----
 
