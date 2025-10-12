@@ -60,7 +60,7 @@ Taxonomy:
 sdg: sdg-1-poverty
 lre: lre-learn
 idg: ""
-lvl: ""
+lvl: lvl-undergrad
 other: ""
 
 ----
