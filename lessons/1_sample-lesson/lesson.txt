@@ -10,11 +10,25 @@ Author: - page://fncpy4mdvfxkye1a
 
 ----
 
+Hero: 
+
+----
+
 License: CC BY-NC
 
 ----
 
 Remixsource: 
+
+----
+
+Taxonomy:
+
+sdg: sdg-1-poverty, sdg-2-hunger
+lre: ""
+idg: idg-thinking
+lvl: ""
+other: ""
 
 ----
 
