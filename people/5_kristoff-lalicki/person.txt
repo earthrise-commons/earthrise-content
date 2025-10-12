@@ -55,7 +55,13 @@ Urls:
 
 ----
 
-Tags: 
+Tags:
+
+sdg: sdg-1-poverty
+lre: ""
+idg: ""
+lvl: lvl-undergrad
+other: ""
 
 ----
 
