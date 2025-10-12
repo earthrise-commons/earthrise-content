@@ -55,6 +55,16 @@ Urls:
 
 ----
 
+Taxonomy:
+
+sdg: ""
+lre: ""
+idg: ""
+lvl: lvl-undergrad
+other: ""
+
+----
+
 Tags: 
 
 ----
