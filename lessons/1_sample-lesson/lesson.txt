@@ -25,7 +25,7 @@ Remixsource:
 Taxonomy:
 
 sdg: sdg-1-poverty, sdg-2-hunger
-lre: ""
+lre: lre-learn
 idg: idg-thinking
 lvl: ""
 other: ""
