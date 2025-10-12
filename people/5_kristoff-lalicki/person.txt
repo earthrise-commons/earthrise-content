@@ -55,6 +55,16 @@ Urls:
 
 ----
 
+Taxonomy:
+
+sdg: sdg-1-poverty
+lre: lre-learn
+idg: ""
+lvl: ""
+other: ""
+
+----
+
 Tags:
 
 sdg: sdg-1-poverty
