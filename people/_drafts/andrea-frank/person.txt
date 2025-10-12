@@ -46,7 +46,7 @@ Urls:
 
 - 
   title: "Andrea Frank's Website"
-  url: www.andreafrank.net
+  url: https://www.andreafrank.net
 
 ----
 
