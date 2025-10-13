@@ -36,7 +36,13 @@ Text:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: sdg-10-inequality
+lre: ""
+idg: ""
+lvl: ""
+other: ""
 
 ----
 
