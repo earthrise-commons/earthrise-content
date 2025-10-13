@@ -2,23 +2,29 @@ Title: Sample Chapter
 
 ----
 
-Sectionid: 
+Sectionid: ch1
 
 ----
 
-Chapterid: 
+Chapterid: A
 
 ----
 
-Author: 
+Author: - page://fncpy4mdvfxkye1a
 
 ----
 
-Summary: 
+Summary: <p>This is a sample chapter to test the chapter page builder</p>
 
 ----
 
-Links: 
+Links:
+
+- 
+  title: View Chapter on SpringerLink
+  type: url
+  url: https://earthrisecommons.org
+  file: [ ]
 
 ----
 
