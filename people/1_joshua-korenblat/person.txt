@@ -57,9 +57,11 @@ Urls:
 
 Taxonomy:
 
-sdg: ""
-lre: ""
-idg: ""
+sdg: sdg-4-education
+lre: lre-learn, lre-reflect, lre-empower
+idg: >
+  idg-relating, idg-being, idg-thinking,
+  idg-collaborating, idg-acting
 lvl: lvl-undergrad
 other: ""
 
