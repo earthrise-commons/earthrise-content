@@ -46,7 +46,11 @@ Urls:
 
 - 
   title: "Emilie Houssart's Website"
-  url: 'www.emiliehoussart.com '
+  url: https://www.emiliehoussart.com/
+
+----
+
+Taxonomy: 
 
 ----
 
