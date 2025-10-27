@@ -46,7 +46,11 @@ Urls:
 
 - 
   title: "Andrea Kantrowitz's Website"
-  url: AndreaKantrowitz.com
+  url: https://www.andreakantrowitz.com/
+
+----
+
+Taxonomy: 
 
 ----
 
