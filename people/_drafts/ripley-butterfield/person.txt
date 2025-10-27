@@ -46,7 +46,12 @@ Urls:
 
 - 
   title: Regionwide Public Art Project
-  url: processingcollapse.com
+  url: >
+    https://www.processingcollapse.com/about-us
+
+----
+
+Taxonomy: 
 
 ----
 
