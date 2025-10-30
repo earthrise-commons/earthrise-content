@@ -2,7 +2,7 @@ Title: music video
 
 ----
 
-Text: 
+Text: [{"content":{"location":"web","url":"https://youtu.be/TOqUy7oTULw?si=Up9B484w1TBRDyPi","video":[],"poster":[],"caption":"Made in a few hours while in Portland, Oregon.  In support of a handful of non-profits doing great work to protect our fragile democracy and our beloved living Earth!  ThirdAct.org, 350.org, Center for Biodiversity, MoveOn.org, Indivisible.org.  :-)","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"d809ad7c-a645-4e02-a682-581b9aab239c","isHidden":false,"type":"video"}]
 
 ----
 
