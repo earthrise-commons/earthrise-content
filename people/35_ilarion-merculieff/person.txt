@@ -14,7 +14,15 @@ Photo: - file://zzxwuosythbcrlle
 
 ----
 
-Location: 
+Location:
+
+lat: 61.2163129
+lon: -149.894852
+city: Anchorage
+region: Alaska
+country: United States
+countryCode: us
+osm: 2605259
 
 ----
 
@@ -43,6 +51,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
