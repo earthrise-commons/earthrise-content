@@ -14,7 +14,18 @@ Photo:
 
 ----
 
-Location: 
+Location:
+
+lat: 61.190379
+lon: -149.8223254
+number: "3211"
+city: Anchorage
+region: Alaska
+country: United States
+countryCode: us
+postcode: "99508"
+address: Providence Drive
+osm: 701961306
 
 ----
 
