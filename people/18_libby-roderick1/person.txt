@@ -59,7 +59,17 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-16-peace, sdg-17-partnerships,
+  sdg-4-education, sdg-12-consumption
+lre: ""
+idg: >
+  idg-being, idg-thinking, idg-relating,
+  idg-collaborating, idg-acting
+lvl: lvl-undergrad, lvl-graduate
+other: ""
 
 ----
 
