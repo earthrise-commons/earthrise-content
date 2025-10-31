@@ -2,11 +2,11 @@ Title: Being Present: Native Perspectives on Sustainability
 
 ----
 
-Text: 
+Text: [{"content":{"level":"h2","text":"<strong>Out of the Head, Into the Heart: The Way of the Human Being</strong>"},"id":"ccaac897-8621-41ed-919e-724fd9b03239","isHidden":false,"type":"heading"},{"content":{"text":"<p>Our forthcoming book features the ecological autobiography of Ilarion Merculieff. In his essay, <a href=\"https://humansandnature.org/out-of-the-head-into-the-heart-the-way-of-the-human-being/\" target=\"_blank\"><strong>Out of the Head, Into the Heart: The Way of the Human Being</strong></a>, he writes about a type of quiet presence in our surroundings that's difficult to find for many of us these days. Not all of our teachers are humans, he shows us. We learn from our elders, the land, and the other creatures around us, too.</p>"},"id":"0acee8d5-64a2-44b5-9f58-aa73bda8ae9a","isHidden":false,"type":"text"},{"content":{"location":"web","url":"https://youtu.be/NUI6tUCtY28?si=ckXtHPQXKigWdBMZ","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"6e664713-8ead-4a83-a622-a81b98ccd5d7","isHidden":false,"type":"video"}]
 
 ----
 
-Author: 
+Author: - page://rypuz3k6rp77a0oh
 
 ----
 
