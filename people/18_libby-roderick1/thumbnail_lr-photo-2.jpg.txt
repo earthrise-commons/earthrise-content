@@ -1,0 +1,5 @@
+Uuid: fomy1ykuogceroqt
+
+----
+
+Template: image
