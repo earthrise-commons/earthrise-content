@@ -1,0 +1,5 @@
+Uuid: 3oecvuidp4jafxcw
+
+----
+
+Template: image
