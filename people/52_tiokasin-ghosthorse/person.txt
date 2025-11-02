@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://1sa3p0hj3kaklomv
 
 ----
 
@@ -48,6 +48,10 @@ Urls:
   title: "Tiokasin Ghosthorse's Website"
   url: >
     https://humansandnature.org/tiokasin-ghosthorse/
+
+----
+
+Taxonomy: 
 
 ----
 
