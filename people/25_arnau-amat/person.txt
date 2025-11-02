@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://fn012efq9gedfni2
 
 ----
 
@@ -43,6 +43,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
