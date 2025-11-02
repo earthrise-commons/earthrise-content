@@ -1,0 +1,5 @@
+Uuid: rbywkgp8efgfv64t
+
+----
+
+Template: image
