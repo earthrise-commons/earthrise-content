@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://shil3mr16en6yghi
 
 ----
 
@@ -43,6 +43,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
