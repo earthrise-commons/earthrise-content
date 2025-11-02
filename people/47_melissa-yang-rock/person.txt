@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://zuamsaesecnentpa
 
 ----
 
@@ -43,6 +43,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
