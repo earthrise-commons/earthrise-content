@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://atew01ri2wbhr3ko
 
 ----
 
@@ -43,6 +43,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
