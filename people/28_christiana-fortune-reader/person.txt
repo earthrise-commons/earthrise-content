@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://zxbhmqrkyzhit8ey
 
 ----
 
@@ -47,6 +47,10 @@ Urls:
 - 
   title: "Christiana Fortune-Reader's Website"
   url: https://christianafortunereader.com/
+
+----
+
+Taxonomy: 
 
 ----
 
