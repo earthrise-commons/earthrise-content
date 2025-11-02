@@ -10,7 +10,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://3oecvuidp4jafxcw
 
 ----
 
@@ -47,6 +47,10 @@ Urls:
 - 
   title: Anat Shiftan
   url: https://anatshiftan.info
+
+----
+
+Taxonomy: 
 
 ----
 
