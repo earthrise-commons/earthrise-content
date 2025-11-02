@@ -1,0 +1,5 @@
+Uuid: fn012efq9gedfni2
+
+----
+
+Template: image
