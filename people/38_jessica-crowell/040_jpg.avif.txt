@@ -1,0 +1,5 @@
+Uuid: atew01ri2wbhr3ko
+
+----
+
+Template: image
