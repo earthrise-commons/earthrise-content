@@ -1,0 +1,5 @@
+Uuid: db6b4f7nkagjmxzh
+
+----
+
+Template: image
