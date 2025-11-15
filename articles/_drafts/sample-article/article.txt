@@ -1,0 +1,29 @@
+Title: Sample article
+
+----
+
+Text: 
+
+----
+
+Author: 
+
+----
+
+Hero: 
+
+----
+
+License: CC BY-NC
+
+----
+
+Remixsource: 
+
+----
+
+Taxonomy: 
+
+----
+
+Uuid: eimvwmmwzu8vwzzx
