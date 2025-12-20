@@ -1,0 +1,5 @@
+Uuid: zolc3cy7nazlfrai
+
+----
+
+Template: blocks/image
