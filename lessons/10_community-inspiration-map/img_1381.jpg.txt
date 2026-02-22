@@ -1,0 +1,5 @@
+Uuid: pobarhaysckzfmey
+
+----
+
+Template: blocks/image
