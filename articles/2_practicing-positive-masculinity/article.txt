@@ -2,7 +2,7 @@ Title: Practicing Positive Masculinity
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["file://3f0mmrdyb56eeoru"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f39655df-0c2b-4594-b1b4-ba88f1a70c26","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://3f0mmrdyb56eeoru"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b9ce3718-8689-4026-9c99-2534e420fa23","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://3f0mmrdyb56eeoru"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"90e04a33-a0c0-4742-b77e-c659305e54d7","isHidden":false,"type":"image"}]
+Text: [{"content":{"location":"kirby","image":["file://3f0mmrdyb56eeoru"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ab371954-3bde-41bb-a41a-dc9fbb63b3b9","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://3f0mmrdyb56eeoru"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0d3beadd-c590-4091-91be-fc72974e3a05","isHidden":false,"type":"image"}]
 
 ----
 
