@@ -2,11 +2,11 @@ Title: Practicing Positive Masculinity
 
 ----
 
-Text: 
+Text: [{"content":{"location":"kirby","image":["file://3f0mmrdyb56eeoru"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f39655df-0c2b-4594-b1b4-ba88f1a70c26","isHidden":false,"type":"image"}]
 
 ----
 
-Author: 
+Author: - page://2ny88dox54ru5zla
 
 ----
 
