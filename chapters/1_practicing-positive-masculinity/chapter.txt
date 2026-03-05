@@ -10,11 +10,11 @@ Chapterid:
 
 ----
 
-Author: - page://2ny88dox54ru5zla
+Author: 
 
 ----
 
-Summary: 
+Summary: <p>Chapter coming soon!</p>
 
 ----
 
@@ -22,17 +22,16 @@ Links:
 
 - 
   title: View Chapter on SpringerLink
-  type: file
-  url: ""
-  file:
-    - file://vwu5snwttedfm9uj
+  type: url
+  url: https://earthrisecommons.org/
+  file: [ ]
 
 ----
 
 Resourcelinks:
 
 - 
-  title: Positive Masculinity Poster
+  title: Practicing Positive Masculinity Poster
   type: file
   url: ""
   file:
