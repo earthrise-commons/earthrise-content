@@ -10,7 +10,7 @@ Chapterid:
 
 ----
 
-Author: 
+Author: - page://2ny88dox54ru5zla
 
 ----
 
@@ -22,7 +22,14 @@ Links:
 
 ----
 
-Resourcelinks: 
+Resourcelinks:
+
+- 
+  title: Positive Masculinity Poster
+  type: file
+  url: ""
+  file:
+    - file://vwu5snwttedfm9uj
 
 ----
 
