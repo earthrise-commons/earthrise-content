@@ -2,7 +2,7 @@ Title: Practicing Positive Masculinity
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["file://oqh27c2z0phtyn0v"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ed591bfa-d601-4533-ad70-69903c025d16","isHidden":false,"type":"image"}]
+Text: [{"content":{"location":"kirby","image":["file://oqh27c2z0phtyn0v"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ed591bfa-d601-4533-ad70-69903c025d16","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://oqh27c2z0phtyn0v"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"df6e5b1c-f190-48ce-8eb4-750a8f39bd20","isHidden":false,"type":"image"}]
 
 ----
 
