@@ -2,7 +2,7 @@ Title: Practicing Positive Masculinity
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["file://oqh27c2z0phtyn0v"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ed591bfa-d601-4533-ad70-69903c025d16","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://oqh27c2z0phtyn0v"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"df6e5b1c-f190-48ce-8eb4-750a8f39bd20","isHidden":false,"type":"image"}]
+Text: [{"content":{"level":"h2","text":"Practicing Positive Masculinity"},"id":"4db3ad30-b9ca-4166-b23e-114b9d13dedf","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://5ymwamwuii8d9yoj"],"src":"","alt":"Positive Masculinity Poster","caption":"Positive Masculinity Poster","link":"","ratio":"","crop":"false"},"id":"ed591bfa-d601-4533-ad70-69903c025d16","isHidden":false,"type":"image"}]
 
 ----
 
@@ -10,7 +10,7 @@ Author: - page://2ny88dox54ru5zla
 
 ----
 
-Hero: - file://oqh27c2z0phtyn0v
+Hero: - file://5ymwamwuii8d9yoj
 
 ----
 
