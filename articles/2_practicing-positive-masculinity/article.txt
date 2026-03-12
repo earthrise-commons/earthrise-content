@@ -2,7 +2,7 @@ Title: Practicing Positive Masculinity
 
 ----
 
-Text: [{"content":{"level":"h2","text":"Practicing Positive Masculinity"},"id":"4db3ad30-b9ca-4166-b23e-114b9d13dedf","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://5ymwamwuii8d9yoj"],"src":"","alt":"Positive Masculinity Poster","caption":"Positive Masculinity Poster","link":"","ratio":"","crop":"false"},"id":"ed591bfa-d601-4533-ad70-69903c025d16","isHidden":false,"type":"image"}]
+Text: [{"content":{"level":"h2","text":"Practicing Positive Masculinity"},"id":"4db3ad30-b9ca-4166-b23e-114b9d13dedf","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://5ymwamwuii8d9yoj"],"src":"","alt":"Positive Masculinity Poster","caption":"Positive Masculinity Poster","link":"","ratio":"","crop":"false"},"id":"ed591bfa-d601-4533-ad70-69903c025d16","isHidden":false,"type":"image"},{"content":{"title":"Resources","items":[{"title":"Practicing Positive Masculinity","type":"file","url":"","file":["file://eldb479rdn5wfxdg"]}]},"id":"daf94509-209b-425b-ac38-70c6a0595d2b","isHidden":false,"type":"resources"}]
 
 ----
 
