@@ -1,0 +1,5 @@
+Uuid: waletkx69kjb9rxe
+
+----
+
+Template: blocks/image
