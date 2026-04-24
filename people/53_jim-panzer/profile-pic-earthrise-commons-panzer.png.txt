@@ -1,0 +1,5 @@
+Uuid: 9f2cu1axlwijoxxk
+
+----
+
+Template: image
