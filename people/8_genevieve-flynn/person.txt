@@ -26,7 +26,7 @@ Organizationname: SUNY New Paltz
 
 ----
 
-Role: English Literature Student
+Role: English Literature Student and ERC Content Gardener
 
 ----
 
@@ -43,6 +43,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
