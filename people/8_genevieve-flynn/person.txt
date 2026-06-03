@@ -18,7 +18,7 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p>Genevieve holds an M.A in English Literature and serves as the curator of Earthrise Commons.</p>
 
 ----
 
@@ -26,7 +26,7 @@ Organizationname: SUNY New Paltz
 
 ----
 
-Role: English Literature Student and Earthrise Commons Content Gardener
+Role: Earthrise Commons Content Gardener
 
 ----
 
