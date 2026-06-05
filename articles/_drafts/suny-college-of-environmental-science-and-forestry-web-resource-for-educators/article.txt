@@ -2,7 +2,7 @@ Title: SUNY College of Environmental Science and Forestry: Web Resource for Educ
 
 ----
 
-Text: 
+Text: [{"content":{"level":"h2","text":"<strong>Web Resources for Educators:</strong>"},"id":"8faf301a-ad1d-4b6d-870b-247725af78a6","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Compiled by ESF Open Academy Staff &amp; Students: Olivia Whitmarsh, K-12 Outreach Coordinator; Dan Collins, Associate Director of ESF in the High School &amp; K-12 Programs; Carter Smith, ESF Student; Riley Taylor, ESF Student</strong></p>"},"id":"8ea21b3c-81ef-4c4e-a63a-ddf41894c816","isHidden":false,"type":"text"},{"content":{"title":"Resources","items":[{"title":"SUNY College of Environmental Science and Forestry: Web Resource for Educators","type":"url","url":"https://docs.google.com/document/d/1y5617ebcGMgAf9yXL3TGEwp4FyuIJHKV/edit?usp=sharing&ouid=110144710382456763189&rtpof=true&sd=true","file":[]}]},"id":"d3a661c4-c90c-4185-806f-e652b5525ab8","isHidden":false,"type":"resources"}]
 
 ----
 
