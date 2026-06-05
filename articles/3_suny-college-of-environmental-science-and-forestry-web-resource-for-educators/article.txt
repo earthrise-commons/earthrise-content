@@ -24,10 +24,13 @@ Remixsource:
 
 Taxonomy:
 
-sdg: ""
-lre: ""
+sdg: sdg-4-education
+lre: lre-learn, lre-reflect, lre-empower
 idg: ""
-lvl: ""
+lvl: >
+  lvl-elementary, lvl-middle,
+  lvl-highschool, lvl-undergrad,
+  lvl-graduate
 other: ""
 
 ----
