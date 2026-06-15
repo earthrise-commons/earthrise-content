@@ -1,0 +1,5 @@
+Uuid: sz2mamx1ictpmvpe
+
+----
+
+Template: blocks/image
