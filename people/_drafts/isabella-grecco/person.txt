@@ -14,7 +14,15 @@ Photo: - file://t0nuddm10gl3rqoa
 
 ----
 
-Location: 
+Location:
+
+lat: 41.1175966
+lon: -73.4078968
+city: Norwalk
+region: Connecticut
+country: United States
+countryCode: us
+osm: 4139425
 
 ----
 
