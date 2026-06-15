@@ -3,3 +3,7 @@ Uuid: rna8texfmb5fulk3
 ----
 
 Template: blocks/image
+
+----
+
+Focus: 49.0% 52.2%
