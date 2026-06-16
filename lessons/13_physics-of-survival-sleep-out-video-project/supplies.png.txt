@@ -1,0 +1,5 @@
+Uuid: shnjo9pk824bkdge
+
+----
+
+Template: blocks/image
