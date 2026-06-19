@@ -1,0 +1,5 @@
+Uuid: 9wldrdkz2ravwtph
+
+----
+
+Template: blocks/image
