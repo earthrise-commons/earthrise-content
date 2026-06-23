@@ -2,7 +2,7 @@ Title: Illustrating the Geographies of Justice
 
 ----
 
-Text: [{"content":{"level":"h2","text":"Collaborative Storytelling for Sustainability and Justice Workshop"},"id":"8ac0d308-b681-4007-977e-35b6291058fb","isHidden":false,"type":"heading"}]
+Text: [{"content":{"level":"h2","text":"Collaborative Storytelling for Sustainability and Justice Workshop"},"id":"8ac0d308-b681-4007-977e-35b6291058fb","isHidden":false,"type":"heading"},{"content":{"location":"web","url":"https://youtu.be/jPhsyAQxpkA?si=iuM1rt0aWWdvCFxS","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"acb241c4-87ca-44c4-9a22-75630288107f","isHidden":false,"type":"video"}]
 
 ----
 
