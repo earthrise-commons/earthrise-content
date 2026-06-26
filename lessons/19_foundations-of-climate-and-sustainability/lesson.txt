@@ -2,11 +2,11 @@ Title: Presentations About Foundations of Climate and Sustainability
 
 ----
 
-Text: 
+Text: [{"content":{"level":"h2","text":"The Five Pillars of Climate Science, What to Do About Carbon and Climate, and the 7R's + 1 of Sustainable Consumption"},"id":"649d856e-ba21-4f29-8eec-52c5ca25088a","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"<strong>🔁This content is yours to use. Download it, remix it, adapt it, share it—make it work for your community.&nbsp;</strong><br><strong>After reading through the content in “Resources,” please refer to the bottom of the lesson plan for self-reflection questions to assist with your next steps!</strong>"},"id":"8e66e694-490c-4f0f-bfd7-dd4a540a014c","isHidden":false,"type":"heading"},{"content":{"title":"Resources","items":[{"title":"The Five Pillars of Climate Science","type":"file","url":"","file":["file://cy6lphfhlpvjqqe1"]},{"title":"What to Do About Carbon and Climate","type":"file","url":"","file":["file://p9nokyyc7ouebpyr"]},{"title":"Sustainable Consumption- The 7 R's plus 1","type":"file","url":"","file":["file://m3vb1xosasiocdmf"]}]},"id":"6d6fbf6f-0e17-48a2-8ad6-c9a865615c8a","isHidden":false,"type":"resources"}]
 
 ----
 
-Author: 
+Author: - page://q1biei8s0bz0gydg
 
 ----
 
