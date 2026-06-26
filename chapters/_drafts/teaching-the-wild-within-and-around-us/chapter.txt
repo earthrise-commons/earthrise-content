@@ -29,7 +29,25 @@ Links:
 
 ----
 
-Resourcelinks: 
+Resourcelinks:
+
+- 
+  title: Wild Wonder Foundation
+  type: url
+  url: https://www.wildwonder.org/
+  file: [ ]
+- 
+  title: The Nature Journal Connection
+  type: url
+  url: >
+    https://www.youtube.com/playlist?list=PLpcRk9AaBeWjswF9kYxwcVwxx7oHFT5sH
+  file: [ ]
+- 
+  title: 'John Muir Laws: Nature Journaling, Get Started and Grow!'
+  type: url
+  url: >
+    https://johnmuirlaws.com/nature-journaling-starting-growing/
+  file: [ ]
 
 ----
 
