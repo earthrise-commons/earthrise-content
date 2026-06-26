@@ -2,11 +2,11 @@ Title: Incorporating COIL and the UN SDGs for Global Learning for All
 
 ----
 
-Text: 
+Text: [{"content":{"level":"h3","text":"<strong>🔁 This content is yours to use. Download it, remix it, adapt it, share it—make it work for your community.&nbsp;</strong>"},"id":"7276e672-65ee-47a8-994c-ac7fdad494bf","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"<strong>After reading the lesson plan, please refer to the bottom of the lesson plan for self-reflection questions to assist with your next steps!</strong>"},"id":"ec45267a-0a96-423e-985c-93cfa1c21e49","isHidden":false,"type":"heading"}]
 
 ----
 
-Author: 
+Author: - page://kmssqc3ymhdsbeqy
 
 ----
 
