@@ -60,9 +60,12 @@ Taxonomy:
 sdg: >
   sdg-15-land, sdg-14-oceans,
   sdg-4-education
-lre: ""
-idg: ""
-lvl: ""
+lre: lre-reflect, lre-learn
+idg: idg-being, idg-thinking, idg-relating
+lvl: >
+  lvl-elementary, lvl-middle,
+  lvl-highschool, lvl-undergrad,
+  lvl-graduate
 other: ""
 
 ----
