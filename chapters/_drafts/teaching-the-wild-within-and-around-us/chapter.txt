@@ -10,15 +10,22 @@ Chapterid:
 
 ----
 
-Author: 
+Author: - page://fc5dftf5cohzzd9u
 
 ----
 
-Summary: 
+Summary: <p>Joshua&nbsp;Korenblat asks how educators might present today’s biodiversity crisis in a way that moves beyond statistics and predictions to a mode of knowing that is more deeply felt. He presents a teaching philosophy for biodiversity rooted in close relationship, compassion, attentive care, and Martha Nussbaum’s <em>capabilities approach</em>. Many conservation efforts today rely on compassion or outrage, which are limited sources of energy, or enforce compliance through fear. Instead, we need a&nbsp;pedagogical motivation that is expansive and renewable: wonder. Wonder guides us beyond narrow self-interest and complements reason with imagination. Korenblat’s learners stay in relationship with the more-than-human world (Abram) via nature journaling. Using pictures, words, and numbers, students inquire into the <em>umwelt</em> or worldview of other creatures. This pedagogy acknowledges that the biodiversity crisis is too vast to leave to experts. Educators can, instead, nurture an amateur understanding using inspirational&nbsp;models from Goethe’s <em>tender empiricism</em> and Antoine de Saint-Exupéry’s <em>The Little Prince</em>. Korenblat’s approach operates in the spirit of the original meaning of the word <em>amateur</em>: one who acts from innate love. Educators can build a foundation for sustainability within the individual learner, a sense of responsibility to others sustained by wonder and intimate knowledge.</p>
 
 ----
 
-Links: 
+Links:
+
+- 
+  title: View Chapter on SpringerLink
+  type: url
+  url: >
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_10
+  file: [ ]
 
 ----
 
