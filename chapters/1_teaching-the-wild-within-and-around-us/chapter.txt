@@ -55,7 +55,15 @@ Text: [{"content":{"text":"<p>Joshua&nbsp;Korenblat asks how educators might pre
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-15-land, sdg-14-oceans,
+  sdg-4-education
+lre: ""
+idg: ""
+lvl: ""
+other: ""
 
 ----
 
