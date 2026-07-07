@@ -2,11 +2,11 @@ Title: Plant Growth and Gas Exchange: A Middle/High School Teacher's Guide
 
 ----
 
-Text: 
+Text: [{"content":{"level":"h2","text":"Plant Growth and Gas Exchange:&nbsp;A Middle/High School Teacher's Guide"},"id":"1205a45c-ae43-4e57-aeb5-3718b1d6b5ad","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"<strong>🔁This content is yours to use. Download it, remix it, adapt it, share it—make it work for your community.&nbsp;</strong><br><strong>After reading through the content in “Resources,” please refer to the bottom of the lesson plan for self-reflection questions to assist with your next steps! </strong>"},"id":"003e60ba-b4db-48a6-9011-883b46b2537f","isHidden":false,"type":"heading"},{"content":{"title":"Resources","items":[{"title":"PLANT GROWTH AND GAS EXCHANGE MIDDLE/HIGH SCHOOL TEACHER’S GUIDE","type":"file","url":"","file":["file://ybsuu31lt4cybclo"]}]},"id":"fabced4b-5285-489b-a5d0-3e53f9b5c5bb","isHidden":false,"type":"resources"}]
 
 ----
 
-Author: 
+Author: - page://q1biei8s0bz0gydg
 
 ----
 
