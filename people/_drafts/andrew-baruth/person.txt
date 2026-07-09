@@ -27,19 +27,19 @@ osm: 169396
 
 ----
 
-Bio: <h2><strong>Creighton University: Director, Office of Sustainability Programs; Professor</strong></h2>
+Bio: <h2></h2>
 
 ----
 
-Organizationname: 
+Organizationname: Creighton University
 
 ----
 
-Role: 
+Role: Director, Office of Sustainability Programs; Professor
 
 ----
 
-Level: 
+Level: undergrad
 
 ----
 
