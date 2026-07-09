@@ -27,7 +27,7 @@ osm: 169396
 
 ----
 
-Bio: <h2></h2>
+Bio: <h2><a href="https://www.creighton.edu/campus-directory/baruth-andrew-g">https://www.creighton.edu/campus-directory/baruth-andrew-g</a></h2>
 
 ----
 
