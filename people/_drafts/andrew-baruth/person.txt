@@ -14,7 +14,16 @@ Photo:
 
 ----
 
-Location: 
+Location:
+
+lat: 42.4666706
+lon: -97.9061783
+city: Creighton
+region: Nebraska
+country: United States
+countryCode: us
+postcode: "68729"
+osm: 169396
 
 ----
 
