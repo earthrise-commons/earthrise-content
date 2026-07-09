@@ -55,7 +55,18 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-9-industry, sdg-11-cities,
+  sdg-7-energy, sdg-4-education
+lre: lre-learn
+idg: idg-relating
+lvl: >
+  lvl-elementary, lvl-middle,
+  lvl-highschool, lvl-undergrad,
+  lvl-graduate
+other: ""
 
 ----
 
