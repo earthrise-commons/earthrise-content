@@ -1,0 +1,5 @@
+Uuid: tosupksjchtxn7at
+
+----
+
+Template: blocks/image
