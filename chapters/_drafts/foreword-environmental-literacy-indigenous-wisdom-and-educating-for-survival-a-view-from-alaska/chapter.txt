@@ -46,7 +46,10 @@ Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby
 
 Taxonomy:
 
-sdg: sdg-4-education
+sdg: >
+  sdg-4-education, sdg-13-climate,
+  sdg-14-oceans, sdg-15-land,
+  sdg-16-peace, sdg-17-partnerships
 lre: lre-learn, lre-reflect, lre-empower
 idg: >
   idg-thinking, idg-relating, idg-acting,
