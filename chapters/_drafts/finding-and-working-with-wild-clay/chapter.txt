@@ -24,7 +24,7 @@ Links:
   title: View Chapter on SpringerLink
   type: url
   url: >
-    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_40
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_42
   file: [ ]
 
 ----
@@ -33,11 +33,11 @@ Resourcelinks:
 
 - 
   title: >
-    Music in the Fields, By Carrie Young,
-    Peace Corps Volunteer, Mali
-    (2001–2002)
-  type: file
-  url: ""
+    🤲 Resource for Finding and Working
+    with Wild Clay
+  type: url
+  url: >
+    https://docs.google.com/document/d/1WBQDENWNDIFrQ0DbZRcjee68wKTd_tDuS60iqq0tsD8/edit?usp=sharing
   file: [ ]
 
 ----
