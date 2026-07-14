@@ -42,6 +42,12 @@ Resourcelinks:
   type: url
   url: https://libbyroderick.com/books/
   file: [ ]
+- 
+  title: 'Stop Talking: Indigenous Ways of Teaching and Learning and Difficult Dialogues in Higher Education: Book, Open Educational Resource'
+  type: file
+  url: ""
+  file:
+    - file://hgjhagivtdpwsyb6
 
 ----
 
