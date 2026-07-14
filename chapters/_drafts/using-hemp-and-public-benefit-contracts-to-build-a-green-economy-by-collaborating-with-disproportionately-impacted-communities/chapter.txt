@@ -2,19 +2,22 @@ Title: Using Hemp and Public Benefit Contracts to Build a Green Economy by Colla
 
 ----
 
-Sectionid: ch3
+Sectionid: ch6
 
 ----
 
-Chapterid: E
+Chapterid: B
 
 ----
 
-Author: - page://7dv75saajax6gwhj
+Author:
+
+- page://dcn2dz00wwqwqrxt
+- page://h1oeselsn5phbarv
 
 ----
 
-Summary: <p>Andrea Noel describes a scaffolded, semester-long group project that focuses on the relationship between child psychology and development and selected United Nations Sustainable Development Goals (UNSDGs). In class discussions, readings, and projects, students consider the role of sustainability in child development and how ecological systems theory allows a fuller understanding of the variables that impact children’s well-being. Noel reports that this transformative learning experience developed many sustainability competencies in futures thinking, problem solving, and systems thinking. As a capstone to the semester-long project, students brainstormed (and implemented, if possible) civic action plans designed to support change. Self-selected student groups successfully investigated areas of child health,&nbsp;development,&nbsp;and learning such as the impact of agricultural chemicals, air or water pollution, food insecurity, and childhood obesity. They assessed access to universal pre-kindergarten education, support for immigrant children, the state of children’s mental health, and gun safety policies. Noel’s informal survey data indicates that while some students conceptualized original solutions, many students were challenged to understand options for change, yet they developed skills to critically examine literature, draw scientific conclusions, and brainstorm possible solutions.</p>
+Summary: <p>In a world facing environmental and socio-economic challenges, Build Green Now (BGN) offers a strong message of hope and action. This is a clarion call for global collaboration and sustainable development, emphasizing the transformative potential of industrial hemp. Quoting Jack Herer, “Hemp will be the future of all mankind, or there won’t be a future,” BGN highlights the urgency of adopting hemp for green building and entrepreneurship. Educators are key to shifting the narrative from despair to hope by inspiring future generations to embrace sustainability. BGN's initiatives empower communities with knowledge and tools for sustainable urban development, leveraging hemp's multifaceted benefits. Henry Gage, Jr. and Sally Warren provide a strategic roadmap for collective action, detailing considerations and case studies that highlight hemp's role in creating resilient communities. From its soil-rejuvenating properties to its potential in producing eco-friendly products, hemp is a versatile and essential resource for a sustainable future. Combining legislative advocacy, community engagement with public benefit contracts, and educational initiatives, BGN envisions a world where economic stability and environmental health go hand in hand. In 2026, Build Green Now launches Voices for Progress at voicesforprogress.net—a global platform powered by MaayaData connecting communities worldwide to create a future worth believing in.</p>
 
 ----
 
@@ -24,7 +27,7 @@ Links:
   title: View Chapter on SpringerLink
   type: url
   url: >
-    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_16
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_39
   file: [ ]
 
 ----
@@ -32,7 +35,11 @@ Links:
 Resourcelinks:
 
 - 
-  title: 'Resource for Teaching the UN SDGs in a Child Development Course: Empowering Educators'
+  title: >
+    Resource for Using Hemp and Public
+    Benefit Contracts to Build a Green
+    Economy by Collaborating with
+    Disproportionately Impacted Communities
   type: url
   url: >
     https://docs.google.com/document/d/1s5ysNngbMHpj56TgG_TwRLTYjYZl_g5G32i__vf0UTg/edit?usp=sharing
@@ -40,7 +47,7 @@ Resourcelinks:
 
 ----
 
-Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[\"\"],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_16\\\" target=\\\"_blank\\\" title=\\\"Teaching the UN SDGs in a Child Development Course: Empowering Educators\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Andrea Noel describes a scaffolded, semester-long group project that focuses on the relationship between child psychology and development and selected United Nations Sustainable Development Goals (UNSDGs). In class discussions, readings, and projects, students consider the role of sustainability in child development and how ecological systems theory allows a fuller understanding of the variables that impact children’s well-being. Noel reports that this transformative learning experience developed many sustainability competencies in futures thinking, problem solving, and systems thinking. As a capstone to the semester-long project, students brainstormed (and implemented, if possible) civic action plans designed to support change. Self-selected student groups successfully investigated areas of child health,&nbsp;development,&nbsp;and learning such as the impact of agricultural chemicals, air or water pollution, food insecurity, and childhood obesity. They assessed access to universal pre-kindergarten education, support for immigrant children, the state of children’s mental health, and gun safety policies. Noel’s informal survey data indicates that while some students conceptualized original solutions, many students were challenged to understand options for change, yet they developed skills to critically examine literature, draw scientific conclusions, and brainstorm possible solutions.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
+Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_16\\\" target=\\\"_blank\\\" title=\\\"Teaching the UN SDGs in a Child Development Course: Empowering Educators\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Andrea Noel describes a scaffolded, semester-long group project that focuses on the relationship between child psychology and development and selected United Nations Sustainable Development Goals (UNSDGs). In class discussions, readings, and projects, students consider the role of sustainability in child development and how ecological systems theory allows a fuller understanding of the variables that impact children’s well-being. Noel reports that this transformative learning experience developed many sustainability competencies in futures thinking, problem solving, and systems thinking. As a capstone to the semester-long project, students brainstormed (and implemented, if possible) civic action plans designed to support change. Self-selected student groups successfully investigated areas of child health,&nbsp;development,&nbsp;and learning such as the impact of agricultural chemicals, air or water pollution, food insecurity, and childhood obesity. They assessed access to universal pre-kindergarten education, support for immigrant children, the state of children’s mental health, and gun safety policies. Noel’s informal survey data indicates that while some students conceptualized original solutions, many students were challenged to understand options for change, yet they developed skills to critically examine literature, draw scientific conclusions, and brainstorm possible solutions.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
 
 ----
 
