@@ -1,0 +1,5 @@
+Uuid: tbchl48buvuwydjy
+
+----
+
+Template: blocks/image
