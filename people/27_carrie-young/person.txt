@@ -54,7 +54,20 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-15-land, sdg-16-peace,
+  sdg-17-partnerships, sdg-13-climate,
+  sdg-3-health, sdg-2-hunger,
+  sdg-1-poverty, sdg-4-education,
+  sdg-5-gender
+lre: lre-reflect, lre-empower, lre-learn
+idg: >
+  idg-relating, idg-collaborating,
+  idg-acting
+lvl: lvl-undergrad
+other: ""
 
 ----
 
