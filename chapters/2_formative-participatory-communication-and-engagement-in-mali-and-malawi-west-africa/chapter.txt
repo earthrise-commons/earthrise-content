@@ -40,6 +40,12 @@ Resourcelinks:
   url: ""
   file:
     - file://vrcdnbnvxtjwt1hu
+- 
+  title: Agroecology Knowledge Hub
+  type: url
+  url: >
+    https://www.fao.org/agroecology/overview/en/
+  file: [ ]
 
 ----
 
