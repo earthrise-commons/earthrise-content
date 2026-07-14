@@ -10,11 +10,11 @@ Chapterid: B
 
 ----
 
-Author: - page://fc5dftf5cohzzd9u
+Author: - page://7yx8noookqntgeza
 
 ----
 
-Summary: <p>Joshua&nbsp;Korenblat asks how educators might present today’s biodiversity crisis in a way that moves beyond statistics and predictions to a mode of knowing that is more deeply felt. He presents a teaching philosophy for biodiversity rooted in close relationship, compassion, attentive care, and Martha Nussbaum’s <em>capabilities approach</em>. Many conservation efforts today rely on compassion or outrage, which are limited sources of energy, or enforce compliance through fear. Instead, we need a&nbsp;pedagogical motivation that is expansive and renewable: wonder. Wonder guides us beyond narrow self-interest and complements reason with imagination. Korenblat’s learners stay in relationship with the more-than-human world (Abram) via nature journaling. Using pictures, words, and numbers, students inquire into the <em>umwelt</em> or worldview of other creatures. This pedagogy acknowledges that the biodiversity crisis is too vast to leave to experts. Educators can, instead, nurture an amateur understanding using inspirational&nbsp;models from Goethe’s <em>tender empiricism</em> and Antoine de Saint-Exupéry’s <em>The Little Prince</em>. Korenblat’s approach operates in the spirit of the original meaning of the word <em>amateur</em>: one who acts from innate love. Educators can build a foundation for sustainability within the individual learner, a sense of responsibility to others sustained by wonder and intimate knowledge.</p>
+Summary: <p>When my friend and former <em>National Geographic</em> colleague, Josh Korenblat, invited me to contribute a chapter on international sustainability work, I reflected on my formative experience two decades ago in Mali, West Africa, as well as the lessons learned over the years leading to the development of Cornell’s first Cross-campus Sustainability Leadership Program. My work and research in Sub-Saharan Africa and my efforts in educating the next generation have been through the lens of respectful communication and dialogue, intentional partnership, and community-led initiatives. In Mali, I learned the value of participatory methods, which place listening, inclusion, and collaboration at their core.</p>
 
 ----
 
@@ -24,39 +24,16 @@ Links:
   title: View Chapter on SpringerLink
   type: url
   url: >
-    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_10
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_40
   file: [ ]
 
 ----
 
-Resourcelinks:
-
-- 
-  title: Wild Wonder Foundation
-  type: url
-  url: https://www.wildwonder.org/
-  file: [ ]
-- 
-  title: The Nature Journal Connection
-  type: url
-  url: >
-    https://www.youtube.com/playlist?list=PLpcRk9AaBeWjswF9kYxwcVwxx7oHFT5sH
-  file: [ ]
-- 
-  title: 'John Muir Laws: Nature Journaling, Get Started and Grow!'
-  type: url
-  url: >
-    https://johnmuirlaws.com/nature-journaling-starting-growing/
-  file: [ ]
-- 
-  title: 'The Last Two Northern White Rhinos On Earth: What will we lose when Najin and Fatu die? By Sam Anderson, New York Times'
-  type: url
-  url: 'https://www.nytimes.com/2021/01/06/magazine/the-last-two-northern-white-rhinos-on-earth.html?unlocked_article_code=1.xVA.ejJW.NXRO_7l-Lahm&smid=url-share'
-  file: [ ]
+Resourcelinks: 
 
 ----
 
-Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[\"\"],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_10\\\" target=\\\"_blank\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Joshua&nbsp;Korenblat asks how educators might present today’s biodiversity crisis in a way that moves beyond statistics and predictions to a mode of knowing that is more deeply felt. He presents a teaching philosophy for biodiversity rooted in close relationship, compassion, attentive care, and Martha Nussbaum’s <em>capabilities approach</em>. Many conservation efforts today rely on compassion or outrage, which are limited sources of energy, or enforce compliance through fear. Instead, we need a&nbsp;pedagogical motivation that is expansive and renewable: wonder. Wonder guides us beyond narrow self-interest and complements reason with imagination. Korenblat’s learners stay in relationship with the more-than-human world (Abram) via nature journaling. Using pictures, words, and numbers, students inquire into the <em>umwelt</em> or worldview of other creatures. This pedagogy acknowledges that the biodiversity crisis is too vast to leave to experts. Educators can, instead, nurture an amateur understanding using inspirational&nbsp;models from Goethe’s <em>tender empiricism</em> and Antoine de Saint-Exupéry’s <em>The Little Prince</em>. Korenblat’s approach operates in the spirit of the original meaning of the word <em>amateur</em>: one who acts from innate love. Educators can build a foundation for sustainability within the individual learner, a sense of responsibility to others sustained by wonder and intimate knowledge.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
+Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_10\\\" target=\\\"_blank\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Joshua&nbsp;Korenblat asks how educators might present today’s biodiversity crisis in a way that moves beyond statistics and predictions to a mode of knowing that is more deeply felt. He presents a teaching philosophy for biodiversity rooted in close relationship, compassion, attentive care, and Martha Nussbaum’s <em>capabilities approach</em>. Many conservation efforts today rely on compassion or outrage, which are limited sources of energy, or enforce compliance through fear. Instead, we need a&nbsp;pedagogical motivation that is expansive and renewable: wonder. Wonder guides us beyond narrow self-interest and complements reason with imagination. Korenblat’s learners stay in relationship with the more-than-human world (Abram) via nature journaling. Using pictures, words, and numbers, students inquire into the <em>umwelt</em> or worldview of other creatures. This pedagogy acknowledges that the biodiversity crisis is too vast to leave to experts. Educators can, instead, nurture an amateur understanding using inspirational&nbsp;models from Goethe’s <em>tender empiricism</em> and Antoine de Saint-Exupéry’s <em>The Little Prince</em>. Korenblat’s approach operates in the spirit of the original meaning of the word <em>amateur</em>: one who acts from innate love. Educators can build a foundation for sustainability within the individual learner, a sense of responsibility to others sustained by wonder and intimate knowledge.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
 
 ----
 
