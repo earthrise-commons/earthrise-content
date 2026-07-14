@@ -1,0 +1,63 @@
+Title: From (Teaching About )Existential Threats to (Teaching) Existential Resilience and Sustainability
+
+----
+
+Sectionid: ch7
+
+----
+
+Chapterid: B
+
+----
+
+Author: - page://6fcvhua3ihdihp5d
+
+----
+
+Summary: <p>Anat Shiftan asserts the value of sourcing materials locally, of inviting students to walk along a creek, locate, dig, and process workable clay. This sustainability project exists in the context of a typical school or community ceramics studio, the cottage industry, and artist studio practice. Students learn to find clay from small riverbeds, bring it to the studio, and explore its content and characteristics: <em>What is in this clay? Is it plastic? How can we improve its characteristics and workability? Why does the color change upon firing?</em> Students experience informal STEM learning when they test the clay’s firing temperature, water absorption, and shrinkage. This project supports sustainability in two ways: taking students into nature and learning to <em>read</em> it reinforces the urgent need to care for our ecosystems; sourcing clay locally is practical, cheap, and empowering. Through direct experience, students relate natural environments with well-being, and they reflect on the repercussions of the Industrial Revolution. Through research and critical thinking, learners appreciate the history of ceramics including Pueblo potters’ work. They study the ideas of nineteenth century social and environmental activists Mahatma Gandhi, John Ruskin, and William Morris to understand the political dimensions of their own art making and potential impacts.</p>
+
+----
+
+Links:
+
+- 
+  title: View Chapter on SpringerLink
+  type: url
+  url: >
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_42
+  file: [ ]
+
+----
+
+Resourcelinks:
+
+- 
+  title: >
+    🤲 Resource for Finding and Working
+    with Wild Clay
+  type: url
+  url: >
+    https://docs.google.com/document/d/1WBQDENWNDIFrQ0DbZRcjee68wKTd_tDuS60iqq0tsD8/edit?usp=sharing
+  file: [ ]
+
+----
+
+Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[\"\"],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_42\\\" target=\\\"_blank\\\" title=\\\"Finding and Working with Wild Clay\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Anat Shiftan asserts the value of sourcing materials locally, of inviting students to walk along a creek, locate, dig, and process workable clay. This sustainability project exists in the context of a typical school or community ceramics studio, the cottage industry, and artist studio practice. Students learn to find clay from small riverbeds, bring it to the studio, and explore its content and characteristics: <em>What is in this clay? Is it plastic? How can we improve its characteristics and workability? Why does the color change upon firing?</em> Students experience informal STEM learning when they test the clay’s firing temperature, water absorption, and shrinkage. This project supports sustainability in two ways: taking students into nature and learning to <em>read</em> it reinforces the urgent need to care for our ecosystems; sourcing clay locally is practical, cheap, and empowering. Through direct experience, students relate natural environments with well-being, and they reflect on the repercussions of the Industrial Revolution. Through research and critical thinking, learners appreciate the history of ceramics including Pueblo potters’ work. They study the ideas of nineteenth century social and environmental activists Mahatma Gandhi, John Ruskin, and William Morris to understand the political dimensions of their own art making and potential impacts.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
+
+----
+
+Taxonomy:
+
+sdg: >
+  sdg-15-land, sdg-4-education,
+  sdg-12-consumption
+lre: lre-reflect, lre-learn
+idg: >
+  idg-being, idg-thinking, idg-relating,
+  idg-acting
+lvl: lvl-undergrad
+other: ""
+
+----
+
+Uuid: ujledbumbppiyb4j
