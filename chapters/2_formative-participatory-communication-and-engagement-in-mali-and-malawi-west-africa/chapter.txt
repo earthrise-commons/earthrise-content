@@ -41,6 +41,15 @@ Resourcelinks:
   file:
     - file://vrcdnbnvxtjwt1hu
 - 
+  title: >
+    Resource for Formative Participatory
+    Communication and Engagement in Mali and
+    Malawi, West Africa
+  type: url
+  url: >
+    https://docs.google.com/document/d/1YEaG0zhV_HpZkvbXWhb_8Ia4p7YPWqvyGxbV3Ziwdu0/edit?usp=sharing
+  file: [ ]
+- 
   title: Agroecology Knowledge Hub
   type: url
   url: >
