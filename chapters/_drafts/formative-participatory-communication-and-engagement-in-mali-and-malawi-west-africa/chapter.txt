@@ -2,11 +2,11 @@ Title: Formative Participatory Communication and Engagement in Mali and Malawi, 
 
 ----
 
-Sectionid: ch2
+Sectionid: ch6
 
 ----
 
-Chapterid: B
+Chapterid: G
 
 ----
 
@@ -29,7 +29,17 @@ Links:
 
 ----
 
-Resourcelinks: 
+Resourcelinks:
+
+- 
+  title: >
+    Music in the Fields, By Carrie Young,
+    Peace Corps Volunteer, Mali
+    (2001–2002)
+  type: file
+  url: ""
+  file:
+    - file://vrcdnbnvxtjwt1hu
 
 ----
 
