@@ -62,7 +62,16 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-8-work, sdg-9-industry,
+  sdg-11-cities, sdg-17-partnerships,
+  sdg-16-peace, sdg-4-education
+lre: ""
+idg: ""
+lvl: ""
+other: ""
 
 ----
 
