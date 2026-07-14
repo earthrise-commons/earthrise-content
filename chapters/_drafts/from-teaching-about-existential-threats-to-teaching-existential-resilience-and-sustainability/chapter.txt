@@ -33,11 +33,12 @@ Resourcelinks:
 
 - 
   title: >
-    🤲 Resource for Finding and Working
-    with Wild Clay
+    From (Teaching About) Existential
+    Threats to (Teaching) Existential
+    Resilience and Sustainability Resource
   type: url
   url: >
-    https://docs.google.com/document/d/1WBQDENWNDIFrQ0DbZRcjee68wKTd_tDuS60iqq0tsD8/edit?usp=sharing
+    https://docs.google.com/document/d/1VG7gdYR3i67iUcswx2C7LvRuQRv_wbyS4ZcT2LvtKU0/edit?usp=sharing
   file: [ ]
 
 ----
