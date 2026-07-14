@@ -37,6 +37,11 @@ Resourcelinks:
   url: >
     https://earthrisecommons.org/articles/low-to-the-ground-music-video
   file: [ ]
+- 
+  title: 'Books: Libby Roderick'
+  type: url
+  url: https://libbyroderick.com/books/
+  file: [ ]
 
 ----
 
