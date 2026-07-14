@@ -39,7 +39,7 @@ Role: Vice President
 
 ----
 
-Level: 
+Level: other
 
 ----
 
@@ -59,6 +59,10 @@ Urls:
 - 
   title: Voices for Progress
   url: https://www.voicesforprogress.net/
+
+----
+
+Taxonomy: 
 
 ----
 
