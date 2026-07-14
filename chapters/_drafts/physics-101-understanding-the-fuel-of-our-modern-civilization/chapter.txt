@@ -1,0 +1,64 @@
+Title: Physics 101: Understanding the Fuel of Our Modern Civilization
+
+----
+
+Sectionid: ch2
+
+----
+
+Chapterid: G
+
+----
+
+Author: - page://bueszeddolu87x9g
+
+----
+
+Summary: <p>Christine Wamsler highlights the importance of addressing the inner dimensions of sustainability education. We can integrate these dimensions and nourish inner development to support mindset, behavior, culture, and system change in the face of the <em>polycrisis</em>. Wamsler identifies four key elements that educational programs require to become vehicles for transformation and to foster individual, collective and planetary resilience and wellbeing: context and understanding; learning approaches; engagement strategy; quality assurance and ethics. The ultimate goals become self-awareness, personal growth, and capacity for compassion and service on behalf of the common good. We have a choice in how we position our work with respect to dominant, unsustainable institutional norms, and we can develop resistance to these norms and more integrative approaches.</p>
+
+----
+
+Links:
+
+- 
+  title: View Chapter on SpringerLink
+  type: url
+  url: >
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_42
+  file: [ ]
+
+----
+
+Resourcelinks:
+
+- 
+  title: >
+    From (Teaching About) Existential
+    Threats to (Teaching) Existential
+    Resilience and Sustainability Resource
+  type: url
+  url: >
+    https://docs.google.com/document/d/1VG7gdYR3i67iUcswx2C7LvRuQRv_wbyS4ZcT2LvtKU0/edit?usp=sharing
+  file: [ ]
+
+----
+
+Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[\"\"],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_9\\\" target=\\\"_blank\\\" title=\\\"From (Teaching About) Existential Threats to (Teaching) Existential Resilience and Sustainability\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Christine Wamsler highlights the importance of addressing the inner dimensions of sustainability education. We can integrate these dimensions and nourish inner development to support mindset, behavior, culture, and system change in the face of the <em>polycrisis</em>. Wamsler identifies four key elements that educational programs require to become vehicles for transformation and to foster individual, collective and planetary resilience and wellbeing: context and understanding; learning approaches; engagement strategy; quality assurance and ethics. The ultimate goals become self-awareness, personal growth, and capacity for compassion and service on behalf of the common good. We have a choice in how we position our work with respect to dominant, unsustainable institutional norms, and we can develop resistance to these norms and more integrative approaches.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
+
+----
+
+Taxonomy:
+
+sdg: >
+  sdg-4-education, sdg-16-peace,
+  sdg-17-partnerships
+lre: lre-reflect, lre-learn, lre-empower
+idg: >
+  idg-being, idg-thinking, idg-relating,
+  idg-acting
+lvl: lvl-undergrad
+other: ""
+
+----
+
+Uuid: p1k14tqg9s8nct5k
