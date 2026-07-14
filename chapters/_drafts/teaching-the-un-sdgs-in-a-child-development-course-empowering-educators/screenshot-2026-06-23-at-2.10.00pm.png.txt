@@ -1,0 +1,5 @@
+Uuid: x784xpipd9g2colg
+
+----
+
+Template: blocks/image
