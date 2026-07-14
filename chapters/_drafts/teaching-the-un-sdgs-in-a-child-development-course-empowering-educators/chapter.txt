@@ -46,15 +46,12 @@ Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby
 
 Taxonomy:
 
-sdg: >
-  sdg-4-education, sdg-12-consumption,
-  sdg-11-cities, sdg-9-industry,
-  sdg-7-energy, sdg-13-climate
-lre: lre-reflect, lre-learn, lre-empower
+sdg: sdg-4-education
+lre: lre-learn, lre-reflect, lre-empower
 idg: >
   idg-being, idg-thinking, idg-relating,
-  idg-acting
-lvl: lvl-highschool
+  idg-acting, idg-collaborating
+lvl: lvl-undergrad
 other: ""
 
 ----
