@@ -1,0 +1,59 @@
+Title: Wicked Questions and Writing: Program-Level Transformations Copy
+
+----
+
+Sectionid: ch5
+
+----
+
+Chapterid: F
+
+----
+
+Author: - page://6gyxafgk69hgxjr2
+
+----
+
+Summary: <p>Matthew Newcomb discusses a program-level commitment to using the United Nations Sustainable Development Goals in required introductory writing and rhetoric courses. At SUNY New Paltz, US, more than fifty sections of writing and rhetoric courses per year reach nearly every first-year student and many transfer students, with some connection to sustainability-oriented thinking and concepts, either directly through an issue in the UN SDGs, or indirectly. Newcomb discusses the programmatic decision to commit all required writing courses, including those taught by English department graduate students and adjunct instructors, to a sustainability-infused curriculum. Newcomb argues that using wicked questions—large, interdisciplinary issues with no right answers—allows educators to integrate sustainability-relevant content and skills work, so these aspects of the educational experience do not have to compete for time. He provides a theoretical analysis of an activity where description and analysis work back-and-forth toward educating an interdisciplinary audience in a way that makes course content relevant to learners.</p>
+
+----
+
+Links:
+
+- 
+  title: View Chapter on SpringerLink
+  type: url
+  url: >
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_32
+  file: [ ]
+
+----
+
+Resourcelinks:
+
+- 
+  title: 'Resource for Wicked Questions and Writing: Program-Level Transformations'
+  type: url
+  url: >
+    https://docs.google.com/document/d/1Uzm452H-nR_xODyTsD8jrUtGJOJe2Wn8j6nRaWDH_6Y/edit?usp=sharing
+  file: [ ]
+
+----
+
+Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[\"\"],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/chapter/10.1007/978-3-032-11698-7_32\\\" target=\\\"_blank\\\" title=\\\"Wicked Questions and Writing: Program-Level Transformations\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p>Matthew Newcomb discusses a program-level commitment to using the United Nations Sustainable Development Goals in required introductory writing and rhetoric courses. At SUNY New Paltz, US, more than fifty sections of writing and rhetoric courses per year reach nearly every first-year student and many transfer students, with some connection to sustainability-oriented thinking and concepts, either directly through an issue in the UN SDGs, or indirectly. Newcomb discusses the programmatic decision to commit all required writing courses, including those taught by English department graduate students and adjunct instructors, to a sustainability-infused curriculum. Newcomb argues that using wicked questions—large, interdisciplinary issues with no right answers—allows educators to integrate sustainability-relevant content and skills work, so these aspects of the educational experience do not have to compete for time. He provides a theoretical analysis of an activity where description and analysis work back-and-forth toward educating an interdisciplinary audience in a way that makes course content relevant to learners.</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
+
+----
+
+Taxonomy:
+
+sdg: sdg-4-education
+lre: lre-learn, lre-reflect, lre-empower
+idg: >
+  idg-thinking, idg-relating, idg-acting,
+  idg-collaborating
+lvl: lvl-undergrad
+other: ""
+
+----
+
+Uuid: xo89v8zih6jowna5
