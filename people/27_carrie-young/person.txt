@@ -14,7 +14,15 @@ Photo: - file://gc7qtfhoq6ued20f
 
 ----
 
-Location: 
+Location:
+
+lat: 35.9131542
+lon: -79.05578
+city: Chapel Hill
+region: North Carolina
+country: United States
+countryCode: us
+osm: 179860
 
 ----
 
