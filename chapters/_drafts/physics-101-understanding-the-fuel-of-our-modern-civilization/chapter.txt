@@ -10,11 +10,11 @@ Chapterid: D
 
 ----
 
-Author: - page://bueszeddolu87x9g
+Author: - page://k4dubxxwyvwg1d2z
 
 ----
 
-Summary: <p>Christine Wamsler highlights the importance of addressing the inner dimensions of sustainability education. We can integrate these dimensions and nourish inner development to support mindset, behavior, culture, and system change in the face of the <em>polycrisis</em>. Wamsler identifies four key elements that educational programs require to become vehicles for transformation and to foster individual, collective and planetary resilience and wellbeing: context and understanding; learning approaches; engagement strategy; quality assurance and ethics. The ultimate goals become self-awareness, personal growth, and capacity for compassion and service on behalf of the common good. We have a choice in how we position our work with respect to dominant, unsustainable institutional norms, and we can develop resistance to these norms and more integrative approaches.</p>
+Summary: <p>A systems thinking approach can be used to connect conceptual understandings of decarbonization to their application in an introductory Physics course. This orientation differs from traditional approaches in which Physics students experience tried and tested lab activities that connect abstract models to physical objects. Given the urgency of the climate crisis, teaching “the basics” is no longer sufficient. Samrat Pathania argues that STEM courses, especially introductory ones, must connect the seemingly esoteric to the practical and comprehensible aspects of existing technologies that pave the way to a fossil-fuel-free future. Pathania provides an accessible, foundational understanding of how electricity is produced, how it can be stored, and how broad electrification of our economy is essential to achieve a massive reduction in carbon emissions. Students work on a net-zero home final project in lieu of taking the cumulative final exam. Additionally, Pathania leads his students toward active engagement in the broader sustainability movement by demonstrating how individual action is of immense consequence. Pathania finds that student immersion in the physics of existing climate solutions has empowered many to take climate action, re-envision a more hopeful future and in many cases, shift their career plans to become directly involved in the renewable energy transitio</p>
 
 ----
 
@@ -24,7 +24,7 @@ Links:
   title: View Chapter on SpringerLink
   type: url
   url: >
-    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_42
+    https://link.springer.com/chapter/10.1007/978-3-032-11698-7_15
   file: [ ]
 
 ----
@@ -32,13 +32,10 @@ Links:
 Resourcelinks:
 
 - 
-  title: >
-    From (Teaching About) Existential
-    Threats to (Teaching) Existential
-    Resilience and Sustainability Resource
+  title: 'Resource for Physics 101: Understanding the Fuel of Our Modern Civilization'
   type: url
   url: >
-    https://docs.google.com/document/d/1VG7gdYR3i67iUcswx2C7LvRuQRv_wbyS4ZcT2LvtKU0/edit?usp=sharing
+    https://docs.google.com/document/d/1zko8FEFFWd2VknHFncdPkGO7AkLd1L4KyUD8haecuxs/edit?usp=sharing
   file: [ ]
 
 ----
