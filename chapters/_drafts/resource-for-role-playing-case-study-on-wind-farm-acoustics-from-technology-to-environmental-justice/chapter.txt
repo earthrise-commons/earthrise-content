@@ -1,0 +1,73 @@
+Title: Resource for Role-Playing Case Study on Wind Farm Acoustics: From Technology to Environmental Justice
+
+----
+
+Sectionid: 
+
+----
+
+Chapterid: 
+
+----
+
+Author: - page://kxxts0zgkjyfd4zz
+
+----
+
+Summary: <p><em>Very little in my culture taught me that my existence depends on the existence of earth.&nbsp;— </em>Susan Griffin&nbsp;</p><p><em>Our educational mission is to produce human beings who are at home in their place, their environment, their world.&nbsp;— </em>Oscar Angayuqaq Kawagley, Yup’ik Elder, first Alaska Native Ph.D.&nbsp;</p><p>As a White woman and lifelong Alaskan born a month before the territory of Alaska became a US state (1959), I had the great good fortune of missing out on many elements of modern North American culture for most of my formative years. Alaska is roughly 1/5 the size of the combined “Lower 48” (continental) states and, at that time, had fewer than 250,000 people living in its vast and wild lands. Immigrants from the Lower 48 were then scrambling to reconstruct American cultural and economic institutions in their new northern home (on top of sacred and unceded Native lands), but these institutions were often unsubstantial, as was adult oversight. We children were free-range, often left on our own to explore the sprawling lands and waters that impressively over-shadowed human occupation. This sometimes put us in great peril, but it also allowed us to retain our primary relationship to the living world....</p>
+
+----
+
+Links:
+
+- 
+  title: "Read a PDF of Libby's Foreword"
+  type: file
+  url: ""
+  file:
+    -
+
+----
+
+Resourcelinks:
+
+- 
+  title: "Listen to Libby's Music and Read Her Foreword"
+  type: url
+  url: >
+    https://earthrisecommons.org/articles/low-to-the-ground-music-video
+  file: [ ]
+- 
+  title: 'Books: Libby Roderick'
+  type: url
+  url: https://libbyroderick.com/books/
+  file: [ ]
+- 
+  title: 'Stop Talking: Indigenous Ways of Teaching and Learning and Difficult Dialogues in Higher Education: Book, Open Educational Resource'
+  type: file
+  url: ""
+  file:
+    -
+
+----
+
+Text: [{"content":{"theme":"default","left":"[{\"content\":{\"location\":\"kirby\",\"image\":[\"\"],\"src\":\"\",\"alt\":\"cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"39c258d8-15a9-4fc1-ab77-87f3afe0ebee\",\"isHidden\":false,\"type\":\"image\"}]","right":"[{\"content\":{\"level\":\"h2\",\"text\":\"<a href=\\\"https://link.springer.com/book/10.1007/978-3-032-11698-7\\\" target=\\\"_blank\\\" title=\\\"Foreword: Environmental Literacy, Indigenous Wisdom, and Educating for Survival: A View from Alaska\\\">Read Chapter on Springer Link</a>\"},\"id\":\"9b84581e-c047-4942-8d12-15f24a156146\",\"isHidden\":false,\"type\":\"heading\"}]"},"id":"ccd00de5-5dea-4f4e-9dcf-5d7c05879374","isHidden":false,"type":"twocol"},{"content":{"text":"<p><em>Very little in my culture taught me that my existence depends on the existence of earth.&nbsp;— </em>Susan Griffin&nbsp;</p><p><em>Our educational mission is to produce human beings who are at home in their place, their environment, their world.&nbsp;— </em>Oscar Angayuqaq Kawagley, Yup’ik Elder, first Alaska Native Ph.D.&nbsp;</p><p>As a White woman and lifelong Alaskan born a month before the territory of Alaska became a US state (1959), I had the great good fortune of missing out on many elements of modern North American culture for most of my formative years. Alaska is roughly 1/5 the size of the combined “Lower 48” (continental) states and, at that time, had fewer than 250,000 people living in its vast and wild lands. Immigrants from the Lower 48 were then scrambling to reconstruct American cultural and economic institutions in their new northern home (on top of sacred and unceded Native lands), but these institutions were often unsubstantial, as was adult oversight. We children were free-range, often left on our own to explore the sprawling lands and waters that impressively over-shadowed human occupation. This sometimes put us in great peril, but it also allowed us to retain our primary relationship to the living world....</p>"},"id":"580b03bf-8014-49ca-9cc5-143ff196a878","isHidden":false,"type":"text"}]
+
+----
+
+Taxonomy:
+
+sdg: >
+  sdg-4-education, sdg-13-climate,
+  sdg-14-oceans, sdg-15-land,
+  sdg-16-peace, sdg-17-partnerships
+lre: lre-learn, lre-reflect, lre-empower
+idg: >
+  idg-thinking, idg-relating, idg-acting,
+  idg-collaborating
+lvl: lvl-undergrad
+other: ""
+
+----
+
+Uuid: ps78nxaqlxgoveas
