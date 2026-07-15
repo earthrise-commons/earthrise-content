@@ -62,7 +62,15 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: sdg-4-education
+lre: lre-learn, lre-reflect, lre-empower
+idg: >
+  idg-thinking, idg-relating,
+  idg-collaborating, idg-acting, idg-being
+lvl: ""
+other: ""
 
 ----
 
