@@ -35,10 +35,10 @@ Links:
 Resourcelinks:
 
 - 
-  title: 'Resource for Role-Playing Case Study on Wind Farm Acoustics: From Technology to Environmental Justice'
+  title: 'Resource for STREAM: A Theory of Community-Led Engagement for Health, Wellness, and Healing'
   type: url
   url: >
-    https://docs.google.com/document/d/1re8hkP0vWhKNFJNEmANVCRov_B926J97_LPNWdkI7Pk/edit?usp=sharing
+    https://docs.google.com/document/d/1adEFbuCgQihdHCJxYYaPLwAVU7peXVssow3qUWGy4bM/edit?usp=sharing
   file: [ ]
 
 ----
