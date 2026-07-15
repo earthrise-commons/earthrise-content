@@ -1,0 +1,5 @@
+Uuid: gwnaqpdbsf32ogy1
+
+----
+
+Template: blocks/image
