@@ -56,6 +56,9 @@ Urls:
 - 
   title: "Andrea Kantrowitz's Website"
   url: https://www.andreakantrowitz.com/
+- 
+  title: DRAWING THOUGHT Substack
+  url: https://andreakantrowitz.substack.com/
 
 ----
 
