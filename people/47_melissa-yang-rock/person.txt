@@ -55,7 +55,16 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-4-education, sdg-1-poverty,
+  sdg-5-gender, sdg-8-work,
+  sdg-12-consumption
+lre: ""
+idg: ""
+lvl: ""
+other: ""
 
 ----
 
