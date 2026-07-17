@@ -54,7 +54,18 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-4-education, sdg-8-work,
+  sdg-9-industry, sdg-10-inequality,
+  sdg-11-cities, sdg-12-consumption
+lre: lre-learn, lre-reflect, lre-empower
+idg: >
+  idg-thinking, idg-relating,
+  idg-collaborating, idg-acting
+lvl: lvl-undergrad
+other: ""
 
 ----
 
