@@ -14,7 +14,15 @@ Photo: - file://ujt3jrnwmadbvn9h
 
 ----
 
-Location: 
+Location:
+
+lat: 40.4936119
+lon: -74.4436416
+city: New Brunswick
+region: New Jersey
+country: United States
+countryCode: us
+osm: 170536
 
 ----
 
