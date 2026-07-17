@@ -51,7 +51,12 @@ Taxonomy:
 sdg: >
   sdg-4-education, sdg-9-industry,
   sdg-8-work, sdg-1-poverty,
-  sdg-10-inequality
+  sdg-10-inequality, sdg-5-gender,
+  sdg-15-land, sdg-16-peace,
+  sdg-17-partnerships, sdg-14-oceans,
+  sdg-13-climate, sdg-12-consumption,
+  sdg-11-cities, sdg-7-energy,
+  sdg-6-water, sdg-3-health, sdg-2-hunger
 lre: lre-learn, lre-reflect, lre-empower
 idg: >
   idg-thinking, idg-relating, idg-acting,
