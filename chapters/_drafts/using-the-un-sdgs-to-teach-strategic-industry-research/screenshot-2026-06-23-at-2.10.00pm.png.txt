@@ -1,0 +1,5 @@
+Uuid: spdukdgddd0cim31
+
+----
+
+Template: blocks/image
