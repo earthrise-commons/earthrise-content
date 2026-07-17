@@ -32,10 +32,12 @@ Links:
 Resourcelinks:
 
 - 
-  title: 'Resource for De-Fetishizing Commodities for Sustainable Futures: How Commodity Chain Analyses Expose the Hidden Social and Environmental Costs of Consumption'
+  title: >
+    Resource for Green Leaves and Leverage
+    Points
   type: url
   url: >
-    https://docs.google.com/document/d/1wIBDe4gPTKbpaMsLqQj3nUvf89bCQClXgpqwOMSPOlg/edit?usp=sharing
+    https://docs.google.com/document/d/1bxcIOjCruwx2msfqjKZWCW9vIdbwQpCqOQfm3Gf5Smc/edit?usp=sharing
   file: [ ]
 
 ----
