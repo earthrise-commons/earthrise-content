@@ -50,8 +50,8 @@ Taxonomy:
 
 sdg: >
   sdg-4-education, sdg-9-industry,
-  sdg-8-work, sdg-1-poverty,
-  sdg-10-inequality
+  sdg-8-work, sdg-10-inequality,
+  sdg-12-consumption, sdg-11-cities
 lre: lre-learn, lre-reflect, lre-empower
 idg: >
   idg-thinking, idg-relating, idg-acting,
