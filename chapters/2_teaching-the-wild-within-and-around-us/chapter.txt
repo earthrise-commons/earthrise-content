@@ -32,6 +32,12 @@ Links:
 Resourcelinks:
 
 - 
+  title: '🎥 Intellectual vs. Imaginative Understanding: Video with Dalia Nassar'
+  type: url
+  url: >
+    https://youtu.be/UaStCEHdVc0?si=ZQJ35TOi7IWdlSIT
+  file: [ ]
+- 
   title: Wild Wonder Foundation
   type: url
   url: https://www.wildwonder.org/
