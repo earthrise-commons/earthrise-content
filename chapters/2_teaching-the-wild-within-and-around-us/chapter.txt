@@ -32,7 +32,7 @@ Links:
 Resourcelinks:
 
 - 
-  title: 🎥 The Little Prince and the Fox
+  title: 🎥 🦊 The Little Prince and the Fox
   type: url
   url: >
     https://youtu.be/iaI3wkZ3lIk?si=a1296kZxlknHxu15
