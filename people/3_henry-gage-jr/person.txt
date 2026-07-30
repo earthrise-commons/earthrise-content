@@ -6,6 +6,10 @@ Displayname: Henry Gage, Jr.
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: he/him
 
 ----
