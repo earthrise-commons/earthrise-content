@@ -64,6 +64,14 @@ Resourcelinks:
   type: url
   url: 'https://www.nytimes.com/2021/01/06/magazine/the-last-two-northern-white-rhinos-on-earth.html?unlocked_article_code=1.xVA.ejJW.NXRO_7l-Lahm&smid=url-share'
   file: [ ]
+- 
+  title: >
+    Jane Goodall reflects on hug from
+    rescued chimpanzee
+  type: url
+  url: >
+    https://youtu.be/YXKzGzSdMY8?si=HyssLtF_g2b0NDjs
+  file: [ ]
 
 ----
 
