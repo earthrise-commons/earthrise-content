@@ -39,6 +39,12 @@ Resourcelinks:
   url: >
     https://docs.google.com/document/d/1bxcIOjCruwx2msfqjKZWCW9vIdbwQpCqOQfm3Gf5Smc/edit?usp=sharing
   file: [ ]
+- 
+  title: '🎥 Amanda Gorman: Earthrise Poem'
+  type: url
+  url: >
+    https://youtu.be/xwOvBv8RLmo?si=Hf_QeMvlE8ImyWGw
+  file: [ ]
 
 ----
 
