@@ -2,11 +2,15 @@ Title: Joshua Korenblat
 
 ----
 
-Displayname: Joshua Korenblat
+Displayname: Carrie
 
 ----
 
-Pronouns: he/him
+Isbookauthor: true
+
+----
+
+Pronouns: 
 
 ----
 
