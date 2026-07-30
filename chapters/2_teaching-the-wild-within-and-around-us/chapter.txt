@@ -43,18 +43,18 @@ Resourcelinks:
   url: 'https://open.substack.com/pub/schoolofattention/p/why-cant-we-be-kin?r=m5w5s&utm_campaign=post-expanded-share&utm_medium=web'
   file: [ ]
 - 
-  title: Wild Wonder Foundation
+  title: 🔗 Wild Wonder Foundation
   type: url
   url: https://www.wildwonder.org/
   file: [ ]
 - 
-  title: The Nature Journal Connection
+  title: 🎥 The Nature Journal Connection
   type: url
   url: >
     https://www.youtube.com/playlist?list=PLpcRk9AaBeWjswF9kYxwcVwxx7oHFT5sH
   file: [ ]
 - 
-  title: 'John Muir Laws: Nature Journaling, Get Started and Grow!'
+  title: '🪶 📘 John Muir Laws: Nature Journaling, Get Started and Grow!'
   type: url
   url: >
     https://johnmuirlaws.com/nature-journaling-starting-growing/
