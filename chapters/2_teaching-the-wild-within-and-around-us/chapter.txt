@@ -60,7 +60,7 @@ Resourcelinks:
     https://johnmuirlaws.com/nature-journaling-starting-growing/
   file: [ ]
 - 
-  title: 'The Last Two Northern White Rhinos On Earth: What will we lose when Najin and Fatu die? By Sam Anderson, New York Times'
+  title: '🦏 The Last Two Northern White Rhinos On Earth: What will we lose when Najin and Fatu die? By Sam Anderson, New York Times'
   type: url
   url: 'https://www.nytimes.com/2021/01/06/magazine/the-last-two-northern-white-rhinos-on-earth.html?unlocked_article_code=1.xVA.ejJW.NXRO_7l-Lahm&smid=url-share'
   file: [ ]
