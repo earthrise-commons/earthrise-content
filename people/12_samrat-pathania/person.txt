@@ -6,6 +6,10 @@ Displayname: Samrat Pathania
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
@@ -43,6 +47,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
