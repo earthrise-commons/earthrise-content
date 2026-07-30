@@ -38,11 +38,6 @@ Resourcelinks:
     https://youtu.be/UaStCEHdVc0?si=ZQJ35TOi7IWdlSIT
   file: [ ]
 - 
-  title: "🔗 The Empty Cup: Why Can't We Be Kin | On attention to relation"
-  type: url
-  url: 'https://open.substack.com/pub/schoolofattention/p/why-cant-we-be-kin?r=m5w5s&utm_campaign=post-expanded-share&utm_medium=web'
-  file: [ ]
-- 
   title: 🔗 Wild Wonder Foundation
   type: url
   url: https://www.wildwonder.org/
@@ -58,6 +53,11 @@ Resourcelinks:
   type: url
   url: >
     https://johnmuirlaws.com/nature-journaling-starting-growing/
+  file: [ ]
+- 
+  title: "🔗 The Empty Cup: Why Can't We Be Kin | On attention to relation"
+  type: url
+  url: 'https://open.substack.com/pub/schoolofattention/p/why-cant-we-be-kin?r=m5w5s&utm_campaign=post-expanded-share&utm_medium=web'
   file: [ ]
 - 
   title: '🦏 The Last Two Northern White Rhinos On Earth: What will we lose when Najin and Fatu die? By Sam Anderson, New York Times'
