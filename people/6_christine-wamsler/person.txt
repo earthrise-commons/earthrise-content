@@ -6,6 +6,10 @@ Displayname: Christine Wamsler
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: she/her
 
 ----
