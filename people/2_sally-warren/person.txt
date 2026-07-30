@@ -6,6 +6,10 @@ Displayname: Dr. Sally Warren
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: she/her
 
 ----
