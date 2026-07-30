@@ -6,6 +6,10 @@ Displayname: Sarah Wyman
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: she/her
 
 ----
