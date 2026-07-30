@@ -6,6 +6,10 @@ Displayname: Andrea Frank
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
@@ -47,6 +51,10 @@ Urls:
 - 
   title: "Andrea Frank's Website"
   url: https://www.andreafrank.net
+
+----
+
+Taxonomy: 
 
 ----
 
