@@ -6,6 +6,10 @@ Displayname: Will Hong
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: he/him
 
 ----
@@ -56,6 +60,10 @@ Urls:
 - 
   title: Curriculum and Sustainability Chapter
   url: ""
+
+----
+
+Taxonomy: 
 
 ----
 
