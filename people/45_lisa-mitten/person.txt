@@ -6,6 +6,10 @@ Displayname: Lisa Mitten
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
