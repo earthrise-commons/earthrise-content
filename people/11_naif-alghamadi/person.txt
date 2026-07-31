@@ -6,6 +6,10 @@ Displayname: Naif Alghamadi
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
@@ -47,6 +51,10 @@ Urls:
 - 
   title: ""
   url: https://orcid.org/0000-0002-2901-724X
+
+----
+
+Taxonomy: 
 
 ----
 
