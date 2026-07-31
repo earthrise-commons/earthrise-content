@@ -6,6 +6,10 @@ Displayname: Andrea Kantrowitz
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
