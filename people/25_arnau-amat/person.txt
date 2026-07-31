@@ -6,6 +6,10 @@ Displayname: Arnau Amat
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
