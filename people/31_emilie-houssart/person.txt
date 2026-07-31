@@ -6,6 +6,10 @@ Displayname: Emilie Houssart
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
