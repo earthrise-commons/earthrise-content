@@ -6,6 +6,10 @@ Displayname: Heather Lai
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
