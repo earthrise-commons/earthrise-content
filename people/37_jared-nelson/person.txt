@@ -6,6 +6,10 @@ Displayname: Jared Nelson
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
