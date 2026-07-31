@@ -6,6 +6,10 @@ Displayname: April B. Coughlin
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
