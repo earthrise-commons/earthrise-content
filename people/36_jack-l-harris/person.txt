@@ -6,6 +6,10 @@ Displayname: Jack L. Harris
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
