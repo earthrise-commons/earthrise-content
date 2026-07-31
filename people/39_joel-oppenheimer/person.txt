@@ -6,6 +6,10 @@ Displayname: Joel Oppenheimer
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
