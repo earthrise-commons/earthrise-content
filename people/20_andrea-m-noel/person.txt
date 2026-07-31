@@ -6,6 +6,10 @@ Displayname: Andrea M. Noel
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
