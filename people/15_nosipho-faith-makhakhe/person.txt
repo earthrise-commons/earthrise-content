@@ -6,6 +6,10 @@ Displayname: Nosipho Faith Makhakhe
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
@@ -43,6 +47,10 @@ Orcid: https://orcid.org/0000-0002-9576-0242
 ----
 
 Urls: 
+
+----
+
+Taxonomy: 
 
 ----
 
