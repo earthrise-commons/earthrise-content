@@ -6,6 +6,10 @@ Displayname: Lisa C. Hix
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
@@ -48,6 +52,10 @@ Urls:
   title: Keene State College Site
   url: >
     https://www.keene.edu/site/directories/profile/facstaff/235/
+
+----
+
+Taxonomy: 
 
 ----
 
