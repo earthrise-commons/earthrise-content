@@ -6,6 +6,10 @@ Displayname: Tiokasin Ghosthorse
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
