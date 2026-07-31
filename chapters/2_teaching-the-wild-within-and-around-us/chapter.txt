@@ -72,11 +72,17 @@ Resourcelinks:
   file: [ ]
 - 
   title: >
-    Jane Goodall reflects on hug from
+    🎥 Jane Goodall reflects on hug from
     rescued chimpanzee
   type: url
   url: >
     https://youtu.be/YXKzGzSdMY8?si=HyssLtF_g2b0NDjs
+  file: [ ]
+- 
+  title: "🎥 How We Can Protect Animals: Martha Nussbaum's Ethical Revolution — UChicago Deeper Inquiry"
+  type: url
+  url: >
+    https://youtu.be/DM8LHc2TkoI?si=xCZJi4m0xemjtl-G
   file: [ ]
 
 ----
