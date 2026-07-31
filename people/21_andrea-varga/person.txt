@@ -6,6 +6,10 @@ Displayname: Andrea Varga
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
