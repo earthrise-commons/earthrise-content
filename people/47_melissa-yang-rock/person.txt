@@ -6,6 +6,10 @@ Displayname: Melissa Yang Rock
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
