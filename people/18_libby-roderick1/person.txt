@@ -6,6 +6,10 @@ Displayname: Libby Roderick
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
