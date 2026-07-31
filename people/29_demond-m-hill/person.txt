@@ -6,6 +6,10 @@ Displayname: Demond M. Hill
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
