@@ -6,6 +6,10 @@ Displayname: Paul Hirsch
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
