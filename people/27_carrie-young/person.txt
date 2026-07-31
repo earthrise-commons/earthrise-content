@@ -6,6 +6,10 @@ Displayname: Carrie Young
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
