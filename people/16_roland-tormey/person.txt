@@ -6,6 +6,10 @@ Displayname: Roland Tormey
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
@@ -48,6 +52,10 @@ Urls:
   title: EPFL Directory Site
   url: >
     https://people.epfl.ch/roland.tormey?lang=en
+
+----
+
+Taxonomy: 
 
 ----
 
