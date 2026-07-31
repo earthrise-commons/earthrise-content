@@ -6,6 +6,10 @@ Displayname: Jessica Crowell
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
