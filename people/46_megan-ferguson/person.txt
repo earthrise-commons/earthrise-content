@@ -6,6 +6,10 @@ Displayname: Megan Ferguson
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
