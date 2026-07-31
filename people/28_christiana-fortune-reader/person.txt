@@ -6,6 +6,10 @@ Displayname: Christiana Fortune-Reader
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
