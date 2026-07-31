@@ -6,6 +6,10 @@ Displayname: Michael Asbill
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
