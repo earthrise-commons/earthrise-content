@@ -6,6 +6,10 @@ Displayname: Suzanne Stokes
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
