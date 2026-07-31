@@ -6,6 +6,10 @@ Displayname: Kelly Bellody
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
