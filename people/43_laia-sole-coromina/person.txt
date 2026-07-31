@@ -6,6 +6,10 @@ Displayname: Laia Solé Coromina
 
 ----
 
+Isbookauthor: true
+
+----
+
 Pronouns: 
 
 ----
