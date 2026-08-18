@@ -22,7 +22,13 @@ Remixsource:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: ""
+lre: ""
+idg: ""
+lvl: lvl-middle, lvl-highschool
+other: Biology
 
 ----
 
