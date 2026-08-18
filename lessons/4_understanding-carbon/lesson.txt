@@ -22,7 +22,17 @@ Remixsource:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: >
+  sdg-7-energy, sdg-9-industry,
+  sdg-4-education
+lre: lre-learn, lre-reflect, lre-empower
+idg: >
+  idg-being, idg-thinking, idg-relating,
+  idg-collaborating, idg-acting
+lvl: lvl-highschool
+other: ""
 
 ----
 
