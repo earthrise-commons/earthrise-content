@@ -1,0 +1,5 @@
+Uuid: g28s4j1dofrdfxyt
+
+----
+
+Template: image
