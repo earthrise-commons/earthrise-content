@@ -18,7 +18,16 @@ Photo: - file://g28s4j1dofrdfxyt
 
 ----
 
-Location: 
+Location:
+
+lat: 41.7065539
+lon: -73.9283672
+city: City of Poughkeepsie
+region: New York
+country: United States
+countryCode: us
+postcode: "12601"
+osm: 174952
 
 ----
 
