@@ -14,7 +14,7 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://g28s4j1dofrdfxyt
 
 ----
 
@@ -22,19 +22,19 @@ Location:
 
 ----
 
-Bio: 
+Bio: <p>Denise Iris's films have been screened at the Museum of Modern Art in NY and broadcast on PBS. They won a Silver Spire at the San Francisco International Film Festival, the Critics’ Prize at the Dakino International Film Festival, and the Director’s Choice award at the Black Maria Film and Video Festival. They are held in Harvard University's library collection and are referenced in the film studies textbook <em>The Film Experience</em> (Corrigan and White, 3rd ed). International venues and festivals include Festival du Nouveau Cinéma de Montréal, Femme Totale (Germany), Festival Internacional de Cine Independiente de Mar del Plata (Argentina), Trecianske Teplice (Slovakia), L’Entrepôt (Paris), and the Inheritance Festival (UK).</p><p>Denise has received grants and fellowships from the MacDowell Colony, Jerome Foundation, Alfred P.&nbsp;Sloan Foundation, Wexner Center for the Arts, NY State Council on the Arts, NY Foundation for the Arts, Bogliasco Foundation and Rockefeller Foundation Pocantico Residency, among others. She has been a Visiting Artist at Harvard University, Dartmouth College, Oberlin College, Bard College, University of Colorado Boulder, Colgate University, Temple University, and many other institutions.</p><p>Born and raised in Romania, Denise holds a BA from Brown University, an MFA from Columbia, and has attended the Whitney Museum Independent Study Program. She is Assistant Professor of Film at Vassar College.&nbsp;</p>
 
 ----
 
-Organizationname: 
+Organizationname: Vassar College
 
 ----
 
-Role: 
+Role: Associate Professor of Film
 
 ----
 
-Level: 
+Level: undergrad
 
 ----
 
