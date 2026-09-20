@@ -2,7 +2,12 @@ Title: Code of Conduct
 
 ----
 
-Articles: 
+Articles:
+
+- 
+  id: test-article
+  headline: Test Article
+  content: "<p>You have the right to:</p><ul><li><p>Access all community resources freely</p></li><li><p>Receive proper attribution for your contributions</p></li><li><p>Appeal decisions you think are wrong</p></li><li><p>Participate in community discussions about platform changes</p></li></ul><p>You're responsible for:</p><ul><li><p>Following copyright and licensing rules</p></li><li><p>Being respectful in all interactions</p></li><li><p>Contributing positively to the community</p></li><li><p>Helping maintain the commons for everyone</p></li></ul>"
 
 ----
 
