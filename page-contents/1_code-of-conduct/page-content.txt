@@ -5,9 +5,13 @@ Title: Code of Conduct
 Articles:
 
 - 
-  id: rights-and-responsibilities
-  headline: Rights and Responsibilities
+  id: your-rights
+  headline: Your Rights and Responsibilities
   content: "<p>You have the right to:</p><ul><li><p>Access all community resources freely</p></li><li><p>Receive proper attribution for your contributions</p></li><li><p>Appeal decisions you think are wrong</p></li><li><p>Participate in community discussions about platform changes</p></li></ul><p>You're responsible for:</p><ul><li><p>Following copyright and licensing rules</p></li><li><p>Being respectful in all interactions</p></li><li><p>Contributing positively to the community</p></li><li><p>Helping maintain the commons for everyone</p></li></ul>"
+- 
+  id: getting-started
+  headline: Getting Started
+  content: '<p><strong>Getting started is easy:</strong></p><p>Share your first resource with proper licensing.</p><p>The difference: <strong>CC BY</strong> allows anyone (including companies) to use your work for any purpose, while <strong>CC BY-NC</strong> restricts commercial use, which is important when you’re working with content that originally belonged to someone else.</p><p>Introduce yourself to the community.</p><p>Connect with the Gardener if you need help.</p><p>Explore what others have shared and provide feedback.</p>'
 
 ----
 
