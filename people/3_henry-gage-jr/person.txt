@@ -6,6 +6,10 @@ Displayname: Henry Gage, Jr.
 
 ----
 
+Lastnamesort: Gage
+
+----
+
 Isbookauthor: true
 
 ----
