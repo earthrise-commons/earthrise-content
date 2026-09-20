@@ -6,6 +6,10 @@ Displayname: Ş. İlgü Özler
 
 ----
 
+Lastnamesort: Ozler
+
+----
+
 Isbookauthor: true
 
 ----
