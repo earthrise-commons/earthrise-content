@@ -5,20 +5,10 @@ Title: Code of Conduct
 Articles:
 
 - 
-  id: rights-and-responsibilities
-  headline: Your Rights and Responsibilities
-  content: |
-    You have the right to:
-    - Access all community resources freely
-    - Receive proper attribution for your contributions
-    - Appeal decisions you think are wrong
-    - Participate in community discussions about platform changes
-    You're responsible for:
-    - Following copyright and licensing rules
-    - Being respectful in all interactions
-    - Contributing positively to the community
-    - Helping maintain the commons for everyone
+  id: test-article
+  headline: Test Article
+  content: "<p>You have the right to:</p><ul><li><p>Access all community resources freely</p></li><li><p>Receive proper attribution for your contributions</p></li><li><p>Appeal decisions you think are wrong</p></li><li><p>Participate in community discussions about platform changes</p></li></ul><p>You're responsible for:</p><ul><li><p>Following copyright and licensing rules</p></li><li><p>Being respectful in all interactions</p></li><li><p>Contributing positively to the community</p></li><li><p>Helping maintain the commons for everyone</p></li></ul>"
 
 ----
 
-Uuid: bvnfqxhtyctm4s81
+Uuid: mssge5jnd8tbufwo
