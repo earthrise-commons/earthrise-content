@@ -6,6 +6,10 @@ Displayname: Denise Iris
 
 ----
 
+Lastnamesort: 
+
+----
+
 Isbookauthor: false
 
 ----
@@ -14,7 +18,7 @@ Pronouns:
 
 ----
 
-Photo: - file://g28s4j1dofrdfxyt
+Photo: 
 
 ----
 
