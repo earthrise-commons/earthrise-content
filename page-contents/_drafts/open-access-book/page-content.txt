@@ -2,7 +2,12 @@ Title: Open Access Book
 
 ----
 
-Articles: 
+Articles:
+
+- 
+  id: intro
+  headline: Browse the Book
+  content: '<p>The entire contents of the book are available for free open access via SpringerLink. Read more than 60 case studies on sustainability education in all subject areas from college faculty around the world, see related resources, and find lesson plans and submit your own.</p>'
 
 ----
 
