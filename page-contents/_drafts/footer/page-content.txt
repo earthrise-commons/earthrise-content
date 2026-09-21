@@ -2,7 +2,12 @@ Title: Footer
 
 ----
 
-Articles: 
+Articles:
+
+- 
+  id: contact
+  headline: Contact Us
+  content: '<p>Earthrise Commons invites educators, community leaders, and sustainability practitioners to contribute to our sustainability education and community engagement learning commons. We are not just a collection of lesson plans, but a community of educators!</p><p>We look forward to your submissions of innovative approaches to sustainability education and community engagement!</p><p>For questions or more information, please contact Joshua Korenblat at korenblj@newpaltz.edu.</p>'
 
 ----
 
