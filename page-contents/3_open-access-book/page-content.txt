@@ -7,7 +7,7 @@ Articles:
 - 
   id: intro
   headline: Browse the Book
-  content: '<p>The entire contents of the book are available for free open access via SpringerLink. Read more than 60 case studies on sustainability education in all subject areas from college faculty around the world, see related resources, and find lesson plans and submit your own.</p>'
+  content: '<p>Our book is available Open Access via Springer Nature Link. Read 46 chapters on sustainability education in all subject areas from college faculty, rooted in the Hudson Valley, New York, and around the world. Go to Earthrise Commons for resources and lesson plans related to select chapters, below, and submit your own!</p>'
 
 ----
 
