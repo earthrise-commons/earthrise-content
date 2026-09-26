@@ -7,7 +7,7 @@ Articles:
 - 
   id: your-rights
   headline: Your Rights and Responsibilities
-  content: "<p>You have the right to:</p><ul><li><p>Access all community resources freely</p></li><li><p>Receive proper attribution for your contributions</p></li><li><p>Appeal decisions you think are wrong</p></li><li><p>Participate in community discussions about platform changes</p></li></ul><p>You're responsible for:</p><ul><li><p>Following copyright and licensing rules</p></li><li><p>Being respectful in all interactions</p></li><li><p>Contributing positively to the community</p></li><li><p>Helping maintain the commons for everyone</p></li></ul>"
+  content: "<h3>You have the right to:</h3><ul><li><p>Access all community resources freely</p></li><li><p>Receive proper attribution for your contributions</p></li><li><p>Appeal decisions you think are wrong</p></li><li><p>Participate in community discussions about platform changes</p></li></ul><h3>You're responsible for:</h3><ul><li><p>Following copyright and licensing rules</p></li><li><p>Being respectful in all interactions</p></li><li><p>Contributing positively to the community</p></li><li><p>Helping maintain the commons for everyone</p></li></ul>"
 - 
   id: getting-started
   headline: Getting Started
