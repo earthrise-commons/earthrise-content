@@ -2,7 +2,7 @@ Title: Test Page
 
 ----
 
-Text: 
+Text: [{"content":{"text":"# Here's a heading in the Markdown block\n\nHere's some regular text in the markdown block\n\nHere's some text with *inline italic* and **inline bold**\n\n---\n\n```\ncode block\n```"},"id":"37196e39-8f2b-482c-bb84-5355b90ce0ac","isHidden":false,"type":"markdown"}]
 
 ----
 
