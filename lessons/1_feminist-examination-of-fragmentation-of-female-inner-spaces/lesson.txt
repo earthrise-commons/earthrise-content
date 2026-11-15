@@ -18,6 +18,10 @@ License: CC BY-NC
 
 ----
 
+Showremixbanner: true
+
+----
+
 Remixsource: 
 
 ----
