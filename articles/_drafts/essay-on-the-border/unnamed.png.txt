@@ -1,0 +1,5 @@
+Uuid: wel40twqg1aulblo
+
+----
+
+Template: blocks/image
