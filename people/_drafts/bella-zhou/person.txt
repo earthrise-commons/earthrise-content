@@ -6,7 +6,7 @@ Displayname: Bella Zhou
 
 ----
 
-Lastnamesort: 
+Lastnamesort: Zhou
 
 ----
 
@@ -18,11 +18,19 @@ Pronouns:
 
 ----
 
-Photo: 
+Photo: - file://5bghgi79d52nwffy
 
 ----
 
-Location: 
+Location:
+
+lat: 37.4265407
+lon: -122.1703055
+city: Palo Alto
+region: California
+country: United States
+countryCode: us
+osm: 1546085
 
 ----
 
