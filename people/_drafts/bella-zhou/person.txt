@@ -34,19 +34,19 @@ osm: 1546085
 
 ----
 
-Bio: 
+Bio: <p>Bella Zhou is a student at Deep Springs College and Stanford University.</p>
 
 ----
 
-Organizationname: 
+Organizationname: Deep Springs College and Stanford University
 
 ----
 
-Role: 
+Role: Student
 
 ----
 
-Level: 
+Level: undergrad
 
 ----
 
@@ -62,7 +62,13 @@ Urls:
 
 ----
 
-Taxonomy: 
+Taxonomy:
+
+sdg: sdg-1-poverty, sdg-2-hunger, sdg-15-land
+lre: lre-reflect
+idg: idg-being, idg-thinking, idg-relating
+lvl: lvl-undergrad
+other: ""
 
 ----
 
